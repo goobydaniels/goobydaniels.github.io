@@ -9,7 +9,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to about me](./project-page.html).
+[Link to projetcs page me](./project-page.html).
 
 There should be whitespace between paragraphs.
 
