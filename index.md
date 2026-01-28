@@ -17,6 +17,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 *  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
 *  I grew up in a small farm town Ellington, Connecticut
 *  My programming language proficencies include:
+  
 | head1        | head two          | three      |
 |:-------------|:------------------|:-----------|
 | C            | x86 Assembly      | PowerShell |
