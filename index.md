@@ -2,24 +2,33 @@
 layout: default
 ---
 
-# Header 1
+# Welcome!!!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website! _please ignore its currently unfinished state, i've never used html before_ Here you can find _almost_ all of the projects I've worked on over the years (a few maybe missing because they're secret!)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 [Link to projetcs page me](./project-page.html).
 
-There should be whitespace between paragraphs.
+## About me!!!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> Hmm what to say
+*  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
+*  I grew up in a small farm town Ellington, Connecticut
+*  My programming language proficencies include:
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| C           | x86 Assembly | PowerShell  |
+| C# | x64 Assembly | Bash |
+| C++           | x86 Assembly | Lua |
+| Java           | html (obiously) | yumm  |
 
-## Header 2
+Game Development Proficiencies:
+Unreal Engine
+Unity
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
