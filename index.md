@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## About me!!!
 
-> Hmm what to say
+Hmm what to say
 *  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
 *  I grew up in a small farm town Ellington, Connecticut
 *  My programming language proficencies include:
