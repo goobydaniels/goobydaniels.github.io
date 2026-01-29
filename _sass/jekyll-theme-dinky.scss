@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
   // Color of header text
   color:#d092ff;
   // Header's distance from the top of the screen, space between normal text and a header's break line (as it increases the distance shrinks), space between normal text and a header's break line (as it increases the distance increases)
-  margin:36px 0 10px;
+  margin:20px 0 10px;
 }
 
 p, ul, ol, table, dl {
@@ -254,9 +254,9 @@ header {
   // Rounding of the bottom right corner of the side box
 	border-bottom-right-radius: 40px;
   // Padding for the top of the side box, padding for the right side of the side box, padding for the bottom of the side box, padding for the left of the side box
-	padding: 34px 25px 22px 50px;
+	padding: 0px 25px 22px 50px;
   // Side box's distance from the top of the page, unsure, when 1 moves the box up while remaining left aligned
-	margin: 30px 25px 0 0;
+	margin: 0px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
 }
 
