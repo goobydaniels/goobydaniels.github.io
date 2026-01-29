@@ -18,15 +18,13 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <ul>
-          <li><p class="header">Table of Contents:</p></li>
-          <li>
-            <ul>
-              <li><p class="header">Home</p></li>
-            </ul>
-          </li>
+        <li><p class="header">Table of Contents:</p></li>
+        <li>
+          <ul>
+            <li><p class="header">Home</p></li>
+          </ul>
+        </li>
 
-        </ul>
 
         <ul>
           {% if site.show_downloads %}
