@@ -36,12 +36,15 @@ body {
   // Generic text font size
 	font-size: 14px;
   // Generic text color
-	color: #232323;
+	color: #ffaeae;
   // Base page background color
 	//background-color: #FBFAF7;
   background-image: url(arcade_carpet_512.png);
-  background-repeat: no-repeat;
+  // should the image repeat to fill or not
+  background-repeat: repeat;
+  // Should image cover the whole screen
   background-size: cover;
+  // Should image scroll with page or not
   background-attachment: fixed;
   // Dont know
 	margin: 0;
@@ -53,7 +56,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   // Color of header text
-  color:#232323;
+  color:#d092ff;
   // Header's distance from the top of the screen, space between normal text and a header's break line (as it increases the distance shrinks), space between normal text and a header's break line (as it increases the distance increases)
   margin:36px 0 10px;
 }

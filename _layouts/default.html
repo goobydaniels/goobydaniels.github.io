@@ -17,7 +17,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <h2 class="header">{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2 class="header">{{ site.title site.description }}</h2>
         <h3 class="header">Table of Contents:</h3>
         <ul>
           <li><p class="header"><a class="home button" href="https://goobydaniels.github.io/">Home</a></p></li>
