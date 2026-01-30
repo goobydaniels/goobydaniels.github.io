@@ -19,25 +19,42 @@ Hmm what to say
 
 <table>
   <tr>
-    <th colspan="3" style="text-align: center;">My Game Development Proficiencies Include</th>
+    <th colspan="3" style="text-align: center;">
+      My Programming Language Proficiencies Include
+    </th>
   </tr>
   <tr>
-    <td>Unreal Engine</td>
-    <td>Unity</td>
-    <td>Roblox Studio</td>
+    <td style="text-align:center;">C</td>
+    <td style="text-align:center;">x86 Assembly</td>
+    <td style="text-align:center;">PowerShell</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">C#</td>
+    <td style="text-align:center;">x64 Assembly</td>
+    <td style="text-align:center;">Bash</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">C++</td>
+    <td style="text-align:center;">x86 Assembly</td>
+    <td style="text-align:center;">Lua</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Java</td>
+    <td style="text-align:center;">HTML</td>
+    <td style="text-align:center;">Swift</td>
   </tr>
 </table>
 
-| My Programming Language Proficencies Include  |
-|:-------------|
-| C            | x86 Assembly      | PowerShell |
-| C#           | x64 Assembly      | Bash       |
-| C++          | x86 Assembly      | Lua        |
-| Java         | html              | Swift      |
-
-| My Game Development Proficiencies Include     |
-|:--------------|:--------------|:--------------|
-| Unreal Engine | Unity         | Roblox Studio |
+<table>
+  <tr>
+    <th colspan="3" style="text-align: center;">My Game Development Proficiencies Include</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Unreal Engine</td>
+    <td style="text-align:center;">Unity</td>
+    <td style="text-align:center;">Roblox Studio</td>
+  </tr>
+</table>
 
 
 ### Header 3
