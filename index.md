@@ -18,7 +18,7 @@ Hmm what to say
 *  I grew up in a small farm town Ellington, Connecticut
   
 | My Programming Language Proficencies Include  |
-|:-------------|:------------------|:-----------|
+|:-------------|
 | C            | x86 Assembly      | PowerShell |
 | C#           | x64 Assembly      | Bash       |
 | C++          | x86 Assembly      | Lua        |
