@@ -17,7 +17,7 @@ layout: default
 </table>
 
 [Link to another page](./youreit-page.html).
-[Link to projects page me](./projects-page.html).
+[Link to projects page](./projects-page.html).
 
 ## **About me!!!**
 
