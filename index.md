@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome!!!
+# **Welcome!!!**
 
 **Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website! _please ignore its currently unfinished state, i've never used html before_ Here you can find _almost_ all of the projects I've worked on over the years (a few maybe missing because they're secret!)**
 
