@@ -19,7 +19,7 @@ Hmm what to say
 
 <table>
   <tr>
-    <th colspan="3">My Game Development Proficiencies Include</th>
+    <th colspan="3" style="text-align: center;">My Game Development Proficiencies Include</th>
   </tr>
   <tr>
     <td>Unreal Engine</td>
