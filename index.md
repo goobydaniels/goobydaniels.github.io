@@ -16,19 +16,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Hmm what to say
 *  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
 *  I grew up in a small farm town Ellington, Connecticut
-*  My programming language proficencies include:
   
-| head1        | head two          | three      |
+| My Programming Language Proficencies Include  |
 |:-------------|:------------------|:-----------|
 | C            | x86 Assembly      | PowerShell |
 | C#           | x64 Assembly      | Bash       |
 | C++          | x86 Assembly      | Lua        |
-| Java         | html (clearly)    | Swift      |
+| Java         | html              | Swift      |
 
-Game Development Proficiencies:
-Unreal Engine
-Unity
-
+| My Game Development Proficiencies Include     |
+|:--------------|:--------------|:--------------|
+| Unreal Engine | Unity         | Roblox Studio |
 
 
 ### Header 3
