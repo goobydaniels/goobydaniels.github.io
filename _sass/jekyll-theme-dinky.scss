@@ -36,7 +36,12 @@ body {
   // Generic text font size
 	font-size: 14px;
   // Generic text color
-	color: #ffaeae;
+	color: #1a657c;
+  text-shadow:
+    -2px -2px 20px #959794,
+    0px 0px 0 #959794,
+    0px  2px 0 #959794,
+    2px  2px 0 #959794;;
   // Base page background color
 	//background-color: #FBFAF7;
   background-image: url(arcade_carpet_512.png);
@@ -62,9 +67,9 @@ h1, h2, h3, h4, h5, h6 {
   // x offset (-20, 20 range), y offset (-20, 20 range), blur (max of 20)
   text-shadow:
     -2px -2px 20px #959794,
-     0px 0px 0 #959794,
+    0px 0px 0 #959794,
     0px  2px 0 #959794,
-     2px  2px 0 #959794;
+    2px  2px 0 #959794;
 }
 
 p, ul, ol, table, dl {
