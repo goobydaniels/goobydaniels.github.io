@@ -9,7 +9,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to projetcs page me](./project-page.html).
+[Link to projetcs page me](./project-page.md).
 
 ## About me!!!
 
@@ -23,7 +23,7 @@ Hmm what to say
 | C            | x86 Assembly      | PowerShell |
 | C#           | x64 Assembly      | Bash       |
 | C++          | x86 Assembly      | Lua        |
-| Java         | html (clearly)    | yumm       |
+| Java         | html (clearly)    | Swift      |
 
 Game Development Proficiencies:
 Unreal Engine
