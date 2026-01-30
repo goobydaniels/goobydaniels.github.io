@@ -9,7 +9,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to projetcs page me](.//about/project-page.html).
+[Link to projetcs page me](./projects-page.html).
 
 ## About me!!!
 
