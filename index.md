@@ -16,7 +16,18 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Hmm what to say
 *  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
 *  I grew up in a small farm town Ellington, Connecticut
-  
+
+<table>
+  <tr>
+    <th colspan="3">My Game Development Proficiencies Include</th>
+  </tr>
+  <tr>
+    <td>Unreal Engine</td>
+    <td>Unity</td>
+    <td>Roblox Studio</td>
+  </tr>
+</table>
+
 | My Programming Language Proficencies Include  |
 |:-------------|
 | C            | x86 Assembly      | PowerShell |
