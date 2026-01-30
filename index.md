@@ -6,14 +6,18 @@ layout: default
 
 <table>
   <tr>
-    <td colspan="1" style="text-align: center;"><b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website! <i>please ignore its currently unfinished state, i've never used html before</i> Here you can find <i>almost</i> all of the projects I've worked on over the years (a few maybe missing because they're secret!)</b></td>
+    <td colspan="1" style="text-align: center;">
+    <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :) I hope you enjoy taking a look around, here you can find some cool things about me and
+    <i>almost</i>
+    all of the projects I've worked on over the years (a few maybe missing because they're secret!)
+    Also, if you couldn't already tell this is my first time using html so the site maybe a little jank but I've always wanted to make my own website so here we are lol
+    </b>
+    </td>
   </tr>
 </table>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./youreit-page.html).
-[Link to projetcs page me](./projects-page.html).
+[Link to projects page me](./projects-page.html).
 
 ## **About me!!!**
 
