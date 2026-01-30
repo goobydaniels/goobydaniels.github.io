@@ -59,10 +59,11 @@ h1, h2, h3, h4, h5, h6 {
   color:#d19771;
   // Header's distance from the top of the screen, space between normal text and a header's break line (as it increases the distance shrinks), space between normal text and a header's break line (as it increases the distance increases)
   margin:20px 0 10px;
+  // x offset (-20, 20 range), y offset (-20, 20 range), blur (max of 20)
   text-shadow:
-    -2px -2px 0 #959794,
-     2px -2px 0 #959794,
-    -2px  2px 0 #959794,
+    0px 0px 20 #959794,
+     0px 0px 0 #959794,
+    0px  2px 0 #959794,
      2px  2px 0 #959794;
 }
 
