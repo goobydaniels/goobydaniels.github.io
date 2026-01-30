@@ -8,10 +8,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./youreit-page.html).
 [Link to projetcs page me](./projects-page.html).
 
-## About me!!!
+## **About me!!!**
 
 Hmm what to say
 *  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
