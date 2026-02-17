@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: https://goobydaniels.github.io/about-me.html
 ---
 
 # About me!!!
