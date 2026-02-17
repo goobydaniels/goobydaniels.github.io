@@ -258,7 +258,7 @@ header {
   // Side box width
   width: 200px;
   // Side box height
-  height: 750px;
+  /* height: 725px; */
   float:left;
   position:fixed;
   // Border thickness and color
@@ -377,7 +377,6 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  position: fixed;
   // Main text section width
   width:1000px;
   // Main text section alignment from side box
@@ -386,8 +385,6 @@ section {
   padding-left: 325px;
   // Main text section bottom padding
   padding-bottom:50px;
-  top: 0;
-  left: 0px;
 }
 
 
