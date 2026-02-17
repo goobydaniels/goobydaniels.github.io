@@ -22,10 +22,6 @@ layout: default
 
 ## **About me!!!**
 
-Hmm what to say
-*  I am a Game Programming major at Champlain College with a minor in Computer Science and Math
-*  I grew up in a small farm town Ellington, Connecticut
-
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
@@ -47,6 +43,18 @@ Hmm what to say
 </table>
 
 ## **My experiences!!!**
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>Currently, I am a Game Programming major at Champlain College with a minor in both Computer Science and Mathematics, and am planning to graduate in May of 2026.
+    <br>
+    I spent my 2025 Spring semester at Champlain studying abroad in Montreal, working with many different people who are or were working within the game development industry, including folks from Ubisoft Montreal, and Riot Games.
+    </b>
+    </td>
+  </tr>
+</table>
+
 
 ## **My Skills!!!**
 
