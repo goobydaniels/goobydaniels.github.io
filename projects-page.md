@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the projects page
+# Welcome to the projects page
 
 <table>
   <tr>
@@ -13,32 +13,32 @@ layout: default
   </tr>
 </table>
 
-### Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)
+## Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)
 
-### You're It! Fall, 2025 Semester (Still in development!)
+## You're It! Fall, 2025 Semester (Still in development!)
 
-### Hand-written GameBoy Game, 2025 Fall Semester
+## Hand-written GameBoy Game, 2025 Fall Semester
 
-### Portals in Open GL, 2025 Spring Semester
+## Portals in Open GL, 2025 Spring Semester
 
-### Open-GL PBR Shader, 2025 Spring Semester
+## Open-GL PBR Shader, 2025 Spring Semester
 
-### Domain Expansion, 2025 Spring Semester
+## Domain Expansion, 2025 Spring Semester
 
-### Bee Game, 2025 Spring Semester
+## Bee Game, 2025 Spring Semester
 
-### MagicFormer, 2025 Spring Semester
+## MagicFormer, 2025 Spring Semester
 
-### Not Minecraft, 2024 Fall Semester
+## Not Minecraft, 2024 Fall Semester
 
-### Procedural Mesh Generation, 2024 Fall Semester
+## Procedural Mesh Generation, 2024 Fall Semester
 
-### Model Fracture Explosion Demo, 2024 Fall Semester
+## Model Fracture Explosion Demo, 2024 Fall Semester
 
-### Game Architecure Final, 2024 Spring Semester
+## Game Architecure Final, 2024 Spring Semester
 
-### Chinese Lunar New Year Minigames, 2024 Spring Semester
+## Chinese Lunar New Year Minigames, 2024 Spring Semester
 
-### Search, 2024 Spring Semester
+## Search, 2024 Spring Semester
 
 [back](./)
