@@ -13,7 +13,7 @@ layout: default
   </tr>
 </table>
 
-<b>## Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
+## <b>Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
 
 <table>
   <tr>
