@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the projects page
+# Welcome to the Projects Page!!!
 
 <table>
   <tr>
@@ -21,7 +21,6 @@ layout: default
     <b>
     Choo Choo Boom Boom is an on rails shooter in which you are on a train equipped with cannons trying to take out an otherworldly entity that is attacking your city. Choo Choo Boom Boom stemmed from the idea of what would be a literal on rails shooter. You can’t get more on rails than a train. So we took that train and strapped an explosive cannon on it.
     <br>
-    Choo Choo Boom Boom
     </b>
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\ChooChooBoomBoom_UpdatedTrailer.mp4" type="video/mp4">
@@ -42,7 +41,7 @@ layout: default
     <br>
     Unfortunately, our game was not selected to move forward with the greenlight process but I didn't let that deter me from continuing to work on the game, as you can see from the header, I personally am continuing it's development, currently I am working on getting the game properly networked so that it can be played both online and locally, so look out for it on Steam whenever I get around to finishing it.
     <br>
-    Try it out on itch.io [here!](https://quackennn.itch.io/youre-it)
+    Try it out on itch.io <a href="https://quackennn.itch.io/youre-it" target="_blank">here!</a>
     <br>
     </b>
     <video controls width = "800" height = "600">
@@ -81,7 +80,7 @@ layout: default
     <br>
     For this project we used Unity and I was tasked to create a random code creator, code validity checker, dynamic trend system, dynamic in-game economy, and randomly placed pop-up ui elements.
     <br>
-    Try it out on itch.io [here!](https://tristansa.itch.io/domain-expansion-global-game-jam-2025)
+    Try it out on itch.io <a href="https://tristansa.itch.io/domain-expansion-global-game-jam-2025" target="_blank">here!</a>
     <br>
     </b>
     </td>
