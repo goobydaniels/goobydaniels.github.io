@@ -75,8 +75,7 @@ layout: default
   </tr>
 </table>
 
-
-### Header 3
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -176,4 +175,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
