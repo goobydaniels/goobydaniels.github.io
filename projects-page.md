@@ -13,7 +13,16 @@ layout: default
   </tr>
 </table>
 
-## Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)
+<b>## Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>Over the course of my game development career I have worked on a number of different projects within both 2D and 3D environments, spanning multiple game engines, programming languages, and topics. Below is an almost comprehensive list of all of the projects I have worked on over the years, along with some plans for future ones as well, so take a look around and hopefully you’ll find a project that catches your eye!
+    </b>
+    </td>
+  </tr>
+</table>
 
 ## You're It! Fall, 2025 Semester (Still in development!)
 
