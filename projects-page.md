@@ -18,13 +18,27 @@ layout: default
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
-    <b>Over the course of my game development career I have worked on a number of different projects within both 2D and 3D environments, spanning multiple game engines, programming languages, and topics. Below is an almost comprehensive list of all of the projects I have worked on over the years, along with some plans for future ones as well, so take a look around and hopefully you’ll find a project that catches your eye!
+    <b>
+    Choo Choo Boom Boom is the working title for my current biggest project
     </b>
     </td>
   </tr>
 </table>
 
 ## You're It! Fall, 2025 Semester (Still in development!)
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    Choo Choo Boom Boom is the working title for my current biggest project
+    </b>
+    <video controls width = "600">
+      <source src="TrailerTest2.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</table>
 
 ## Hand-written GameBoy Game, 2025 Fall Semester
 
