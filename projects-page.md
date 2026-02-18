@@ -41,12 +41,12 @@ layout: default
     <br>
     Unfortunately, our game was not selected to move forward with the greenlight process but I didn't let that deter me from continuing to work on the game, as you can see from the header, I personally am continuing it's development, currently I am working on getting the game properly networked so that it can be played both online and locally, so look out for it on Steam whenever I get around to finishing it.
     <br>
-    Try it out on itch.io <a href="https://quackennn.itch.io/youre-it" target="_blank">here!</a>
-    <br>
-    </b>
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
-      </video>
+    </video>
+    <br>
+    Try it out on itch.io <a href="https://quackennn.itch.io/youre-it" target="_blank">here!</a>
+    </b>
     </td>
   </tr>
 </table>
@@ -60,7 +60,7 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project here: (You will need a Game Boy emulator to actually play the game!!! For the project I used Emulicious)
     <br>
-    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
     <br>
     <a href=".\assets\downloads\CompArchFinalProject.zip" download="CompArchFinalProject.zip">Computer Architecture Final Download</a>
     </b>
@@ -93,7 +93,6 @@ layout: default
     I utilized C++ and OpenGL to create a scene utilizing deffered shading, which is a 3D rendering technique that decouples scene geometry processing from lighting calculations, significantly optimizing scenes with high light counts. This is accomplished by storing geometric data—positions, normals, and material properties—into a G-buffer during a first pass, lighting is computed only for visible pixels in a second pass, enabling hundreds or thousands of light sources at acceptable frame rates.
     <br>
     <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" width="600" height="400">
-    <br>
     </b>
     </td>
   </tr>
@@ -109,8 +108,9 @@ layout: default
     <br>
     For this project we used Unity and I was tasked to create a random code creator, code validity checker, dynamic trend system, dynamic in-game economy, and randomly placed pop-up ui elements.
     <br>
-    Try it out on itch.io <a href="https://tristansa.itch.io/domain-expansion-global-game-jam-2025" target="_blank">here!</a>
+    <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" width="600" height="400">
     <br>
+    Try it out on itch.io <a href="https://tristansa.itch.io/domain-expansion-global-game-jam-2025" target="_blank">here!</a>
     </b>
     </td>
   </tr>
@@ -123,6 +123,8 @@ layout: default
     <td colspan="1" style="text-align: center;">
     <b>
     In Bee Game, you play as a displaced bee whose hive has been destroyed. You must fly around in a vast garden, in search of resources -- and friends -- to help repair the hive. Soar high and low in this open area adventure game, but avoid dangerous hazards looking to hinder, harm, or outright end your little bee life. Inspired by games like Pikmin, Bee Game aims to show players how hazardous the life of a bee can be, as well as what they can do to help contribute to the safety and survival of our little black and yellow friends.
+    <br>
+    <img src="./assets/images/BeeGame.png" alt="Project Screenshot" width="600" height="400">
     <br>
     Watch the trailer <a href="https://drive.google.com/file/d/1xkSdKHElbTG6oTrUlbUfQH_S-DZw5nC7/view?usp=sharing" target="_blank">here!</a>
     <br>
@@ -143,6 +145,8 @@ layout: default
     <br>
     For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features.
     <br>
+    <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" width="600" height="400">
+    <br>
     Try it out on itch.io <a href="https://the42ndnapkin.itch.io/magicformer" target="_blank">here!</a>
     <br>
     </b>
@@ -158,6 +162,8 @@ layout: default
     <b>
     This project was the final for my Game AI class where I was a part of a team of three and was tasked with creating a project that utilized multiple of the different AI systems we had learned to create throughout the class into one project. My group chose to recreate the voxel based procedural generation of Minecraft, as well as recreating the pathfinding algorithms of the villagers in Minecraft so that we could have NPC characters that can traverse the procedurally generated world along with the player.
     <br>
+    <img src="./assets/images/NotMinecraft.png" alt="Project Screenshot" width="600" height="400">
+    <br>
     Check out the LinkedIn post all about it <a href="https://www.linkedin.com/pulse/procedural-generation-game-ai-final-project-jerry-kaufman-hoxfc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via" target="_blank">here!</a>
     <br>
     </b>
@@ -165,7 +171,7 @@ layout: default
   </tr>
 </table>
 
-## Procedural Mesh Generation, 2024 Fall Semester
+<!-- ## Procedural Mesh Generation, 2024 Fall Semester
 
 <table>
   <tr>
@@ -184,6 +190,6 @@ layout: default
 
 ## Chinese Lunar New Year Minigames, 2024 Spring Semester
 
-## Search, 2024 Spring Semester
+## Search, 2024 Spring Semester -->
 
 [back](./)
