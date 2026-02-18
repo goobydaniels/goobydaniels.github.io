@@ -13,7 +13,7 @@ layout: default
   </tr>
 </table>
 
-## <b>Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
+# <b>Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ layout: default
   </tr>
 </table>
 
-## You're It! Fall, 2025 Semester (Still in development!)
+# You're It! Fall, 2025 Semester (Still in development!)
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ layout: default
   </tr>
 </table>
 
-## Brick Bash GameBoy Game, 2025 Fall Semester
+# Brick Bash GameBoy Game, 2025 Fall Semester
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
@@ -68,7 +68,7 @@ layout: default
   </tr>
 </table>
 
-## Portals in Open GL, 2025 Spring Semester
+# Portals in Open GL, 2025 Spring Semester
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ layout: default
   </tr>
 </table>
 
-## Open-GL Deferred Shading, 2025 Spring Semester
+# Open-GL Deferred Shading, 2025 Spring Semester
 
 <table>
   <tr>
@@ -98,7 +98,7 @@ layout: default
   </tr>
 </table>
 
-## Domain Expansion, 2025 Global Game Jam
+# Domain Expansion, 2025 Global Game Jam
 
 <table>
   <tr>
@@ -116,7 +116,7 @@ layout: default
   </tr>
 </table>
 
-## Bee Game, 2025 Spring Semester
+# Bee Game, 2025 Spring Semester
 
 <table>
   <tr>
@@ -135,7 +135,7 @@ layout: default
   </tr>
 </table>
 
-## MagicFormer, 2025 Spring Semester
+# MagicFormer, 2025 Spring Semester
 
 <table>
   <tr>
@@ -154,7 +154,7 @@ layout: default
   </tr>
 </table>
 
-## Not Minecraft, 2024 Fall Semester
+# Not Minecraft, 2024 Fall Semester
 
 <table>
   <tr>
