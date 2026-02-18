@@ -110,9 +110,9 @@ layout: default
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
-    This project was for my Advanced Seminar Class that I took while in Montreal, in a group of three we were given the simple task of creating a game from scratch over the course of a semester, our group choose to make a platformer with movement based of the Mario Vs. Donkey Kong game and a unqiue spell system that allows the player to cast various spells in order to solve puzzles!
+    This project was for my Advanced Seminar Class that I took while in Montreal, in a group of three we were given the simple task of creating a game from scratch over the course of a semester. Our group choose to make a platformer with movement based of the Mario Vs. Donkey Kong game and a unique spell system that allows the player to cast various spells in order to solve puzzles!
     <br>
-    For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features
+    For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features.
     <br>
     Try it out on itch.io <a href="https://the42ndnapkin.itch.io/magicformer" target="_blank">here!</a>
     <br>
