@@ -89,11 +89,65 @@ layout: default
 
 ## Bee Game, 2025 Spring Semester
 
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    In Bee Game, you play as a displaced bee whose hive has been destroyed. You must fly around in a vast garden, in search of resources -- and friends -- to help repair the hive. Soar high and low in this open area adventure game, but avoid dangerous hazards looking to hinder, harm, or outright end your little bee life. Inspired by games like Pikmin, Bee Game aims to show players how hazardous the life of a bee can be, as well as what they can do to help contribute to the safety and survival of our little black and yellow friends.
+    <br>
+    Watch the trailer <a href="https://drive.google.com/file/d/1xkSdKHElbTG6oTrUlbUfQH_S-DZw5nC7/view?usp=sharing" target="_blank">here!</a>
+    <br>
+    Try it out on itch.io <a href="https://quackennn.itch.io/bee-game" target="_blank">here!</a>
+    <br>
+    </b>
+    </td>
+  </tr>
+</table>
+
 ## MagicFormer, 2025 Spring Semester
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    This project was for my Advanced Seminar Class that I took while in Montreal, in a group of three we were given the simple task of creating a game from scratch over the course of a semester, our group choose to make a platformer with movement based of the Mario Vs. Donkey Kong game and a unqiue spell system that allows the player to cast various spells in order to solve puzzles!
+    <br>
+    For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features
+    <br>
+    Try it out on itch.io <a href="https://the42ndnapkin.itch.io/magicformer" target="_blank">here!</a>
+    <br>
+    </b>
+    </td>
+  </tr>
+</table>
 
 ## Not Minecraft, 2024 Fall Semester
 
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    This project was the final for my Game AI class where I was a part of a team of three and was tasked with creating a project that utilized multiple of the different AI systems we had learned to create throughout the class into one project. My group chose to recreate the voxel based procedural generation of Minecraft, as well as recreating the pathfinding algorithms of the villagers in Minecraft so that we could have NPC characters that can traverse the procedurally generated world along with the player.
+    <br>
+    Check out the LinkedIn post all about it <a href="https://www.linkedin.com/pulse/procedural-generation-game-ai-final-project-jerry-kaufman-hoxfc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via" target="_blank">here!</a>
+    <br>
+    </b>
+    </td>
+  </tr>
+</table>
+
 ## Procedural Mesh Generation, 2024 Fall Semester
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    This project was for my Game AI class where I was tasked with creating any kind of procedural generation system, so I choose to utilize Unity and C# to create infinite procedural terrain generation based upon noise generated textures with color mapping based upon height maps, chunk loading, unloading, and level of detail rendering.
+    <br>
+    </b>
+    </td>
+  </tr>
+</table>
 
 ## Model Fracture Explosion Demo, 2024 Fall Semester
 
