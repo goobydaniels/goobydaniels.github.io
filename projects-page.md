@@ -34,7 +34,7 @@ layout: default
     Choo Choo Boom Boom is the working title for my current biggest project
     </b>
     <video controls width = "800" height = "600">
-      <source src=".\assets\pages\videos\TrailerTest2.mp4" type="video/mp4">
+      <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
