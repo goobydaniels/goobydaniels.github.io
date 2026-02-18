@@ -19,19 +19,27 @@
         <h2 class="header">{{ site.title }} {{ site.description }}</h2>
         <h3 class="header">Table of Contents:</h3>
         <ul>
-          <li><p class="header"><a class="home button" href="https://goobydaniels.github.io/">Home</a></p></li>
+          <li>
+            <a href="/">Home</a>
             <ul>
-              <li><p class="header"><a class="about me button" href="https://goobydaniels.github.io/about-me.html">About Me</a></p></li>
-              <ul>
-                <li><p class="header"><a class="blog button" href="https://goobydaniels.github.io/blog-page.html">Gooby's Galavanting</a></p></li>
-              </ul>
-              <li><p class="header"><a class="my projects button" href="https://goobydaniels.github.io/projects-page.html">My Projects</a></p></li>
-              <ul>
-                <!-- <li><p class="header"><a class="youre it button" href="https://goobydaniels.github.io/assets/pages/youreit-page.html">You're It!</a></p></li> -->
-              </ul>
+              <li>
+                <a href="/about-me.html">About Me</a>
+                <ul>
+                  <li>
+                    <a href="/blog-page.html">Gooby's Galavanting</a>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a href="/projects-page.html">My Projects</a>
+              </li>
             </ul>
+          </li>
         </ul>
 
+        <!-- <ul>
+                <li><p class="header"><a class="youre it button" href="https://goobydaniels.github.io/assets/pages/youreit-page.html">You're It!</a></p></li>
+              </ul> -->
 
         <ul>
           {% if site.show_downloads %}
