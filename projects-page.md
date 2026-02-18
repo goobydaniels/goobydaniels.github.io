@@ -60,7 +60,7 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project here: (You will need a Game Boy emulator to actually play the game!!! For the project I used Emulicious)
     <br>
-    ![Project Screenshot](./assets/images/CompArch.png)
+    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="400">
     <br>
     <a href=".\assets\downloads\CompArchFinalProject.zip" download="CompArchFinalProject.zip">Computer Architecture Final Download</a>
     </b>
@@ -76,7 +76,7 @@ layout: default
     <b>
     I utilized C++ and OpenGL to create a portal shader that utilizes multiple framebuffers to render and orient multiple instances of a scene within the bounds of a portal all while offering realtime customization of the portal’s rotation, position, and recursion amount. Click the link down below to downlaod the finished project!!! (You will need visual studio, with CMake tools installed, and will need to open the folder as a CMake project in visual studio, then select the "FinalPortal.exe" startup item)
     <br>
-    ![Project Screenshot](./assets/images/Portals.png)
+    <img src="./assets/images/Portals.png" alt="Project Screenshot" width="600" height="400">
     <br>
     <a href=".\assets\downloads\GraphicsPortals-main.zip" download="GraphicsPortals-main.zip">Download Portals</a>
     </b>
@@ -92,7 +92,8 @@ layout: default
     <b>
     I utilized C++ and OpenGL to create a scene utilizing deffered shading, which is a 3D rendering technique that decouples scene geometry processing from lighting calculations, significantly optimizing scenes with high light counts. This is accomplished by storing geometric data—positions, normals, and material properties—into a G-buffer during a first pass, lighting is computed only for visible pixels in a second pass, enabling hundreds or thousands of light sources at acceptable frame rates.
     <br>
-    ![Project Screenshot](./assets/images/DeferredShading.png)
+    <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" width="600" height="400">
+    <br>
     </b>
     </td>
   </tr>
