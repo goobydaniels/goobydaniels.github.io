@@ -30,7 +30,6 @@ layout: default
 </table>
 
 # You're It! Fall, 2025 Semester (Still in development!)
-
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
@@ -41,6 +40,7 @@ layout: default
     <br>
     Unfortunately, our game was not selected to move forward with the greenlight process but I didn't let that deter me from continuing to work on the game, as you can see from the header, I personally am continuing it's development, currently I am working on getting the game properly networked so that it can be played both online and locally, so look out for it on Steam whenever I get around to finishing it.
     <br>
+    [Link to another page](./youreit-page.html).
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
     </video>
