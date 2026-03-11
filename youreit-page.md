@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the page for Youre It!!
+# Youre It!
 
 <body id="youre-it-page">
     <table>

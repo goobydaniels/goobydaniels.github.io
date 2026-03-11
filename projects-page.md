@@ -54,9 +54,9 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project here: (You will need a Game Boy emulator to actually play the game!!! For the project I used Emulicious)
     <br>
-    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
+    Learn more about this Gameboy project and what I did on it <a href="https://goobydaniels.github.io/brick-bash-page.html" target="_blank">here!</a>
     <br>
-    <a href=".\assets\downloads\CompArchFinalProject.zip" download="CompArchFinalProject.zip">Computer Architecture Final Download</a>
+    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
     </b>
     </td>
   </tr>
@@ -70,9 +70,9 @@ layout: default
     <b>
     I utilized C++ and OpenGL to create a portal shader that utilizes multiple framebuffers to render and orient multiple instances of a scene within the bounds of a portal all while offering realtime customization of the portal’s rotation, position, and recursion amount. Click the link down below to downlaod the finished project!!! (You will need visual studio, with CMake tools installed, and will need to open the folder as a CMake project in visual studio, then select the "FinalPortal.exe" startup item)
     <br>
-    <img src="./assets/images/Portals.png" alt="Project Screenshot" width="600" height="400">
+    Learn more about this Portals project and what I did on it <a href="https://goobydaniels.github.io/open-gl-portals-page.html" target="_blank">here!</a>
     <br>
-    <a href=".\assets\downloads\GraphicsPortals-main.zip" download="GraphicsPortals-main.zip">Download Portals</a>
+    <img src="./assets/images/Portals.png" alt="Project Screenshot" width="600" height="400">
     </b>
     </td>
   </tr>
@@ -84,7 +84,9 @@ layout: default
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
-    I utilized C++ and OpenGL to create a scene utilizing deffered shading, which is a 3D rendering technique that decouples scene geometry processing from lighting calculations, significantly optimizing scenes with high light counts. This is accomplished by storing geometric data—positions, normals, and material properties—into a G-buffer during a first pass, lighting is computed only for visible pixels in a second pass, enabling hundreds or thousands of light sources at acceptable frame rates.
+    I utilized C++ and OpenGL to create a scene utilizing deffered shading, which is a 3D rendering technique that decouples scene geometry processing from lighting calculations, significantly optimizing scenes with high light counts. This is accomplished by storing geometric data—positions, normals, and material properties—into a G-buffer during a first pass, lighting is computed only for visible pixels in a second pass, enabling hundreds or thousands of light sources at high frame rates.
+    <br>
+    Learn more about this Deferred Shading project <a href="https://goobydaniels.github.io/open-gl-deferred-shading-page.html" target="_blank">here!</a>
     <br>
     <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" width="600" height="400">
     </b>
@@ -98,19 +100,17 @@ layout: default
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
-    This project was for the 2025 Global Game Jam that I participated in while studying abroad in Montreal, where I was a part of a team of 7, and we were given 48 hours to complete our game. The theme for this game jam was Bubble and the other constraints my team wanted to use were Y2K and Pop. The idea for the game was to reference the .com bubble where the player must buy and sell domain names in order to make the most amount of money possible before the .com bubble bursts.
+    Domain Expansion is CrabTap Studios' submission for the 2025 Global Game Jam. The game is a chaotic tycoon like experience where you try to buy and sell as many DOT COM (.com) domains (urls) as you can before the .com bubble bursts. Based on what topics are currently trending, domains that are related to those trends will make more money. Try to make as much money as possible as you manage buying and selling domains while putting up with annoying popup adds.
     <br>
-    For this project we used Unity and I was tasked to create a random code creator, code validity checker, dynamic trend system, dynamic in-game economy, and randomly placed pop-up ui elements.
+    Learn more about Domain Expansion and what I did on it <a href="https://goobydaniels.github.io/domain-expansion-page.html" target="_blank">here!</a>
     <br>
     <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" width="600" height="400">
-    <br>
-    Try it out on itch.io <a href="https://tristansa.itch.io/domain-expansion-global-game-jam-2025" target="_blank">here!</a>
     </b>
     </td>
   </tr>
 </table>
 
-# Bee Game, 2025 Spring Semester
+# The Bee Game, 2025 Spring Semester
 
 <table>
   <tr>
@@ -118,11 +118,11 @@ layout: default
     <b>
     In Bee Game, you play as a displaced bee whose hive has been destroyed. You must fly around in a vast garden, in search of resources -- and friends -- to help repair the hive. Soar high and low in this open area adventure game, but avoid dangerous hazards looking to hinder, harm, or outright end your little bee life. Inspired by games like Pikmin, Bee Game aims to show players how hazardous the life of a bee can be, as well as what they can do to help contribute to the safety and survival of our little black and yellow friends.
     <br>
+    Learn more about The Bee Game and what I did on it <a href="https://goobydaniels.github.io/bee-game-page.html" target="_blank">here!</a>
+    <br>
     <img src="./assets/images/BeeGame.png" alt="Project Screenshot" width="600" height="400">
     <br>
     Watch the trailer <a href="https://drive.google.com/file/d/1xkSdKHElbTG6oTrUlbUfQH_S-DZw5nC7/view?usp=sharing" target="_blank">here!</a>
-    <br>
-    Try it out on itch.io <a href="https://quackennn.itch.io/bee-game" target="_blank">here!</a>
     <br>
     </b>
     </td>
@@ -139,9 +139,9 @@ layout: default
     <br>
     For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features.
     <br>
-    <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" width="600" height="400">
+    Learn more about Magicformer and what I did on it <a href="https://goobydaniels.github.io/magicformer-page.html" target="_blank">here!</a>
     <br>
-    Try it out on itch.io <a href="https://the42ndnapkin.itch.io/magicformer" target="_blank">here!</a>
+    <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" width="600" height="400">
     <br>
     </b>
     </td>
@@ -155,6 +155,8 @@ layout: default
     <td colspan="1" style="text-align: center;">
     <b>
     This project was the final for my Game AI class where I was a part of a team of three and was tasked with creating a project that utilized multiple of the different AI systems we had learned to create throughout the class into one project. My group chose to recreate the voxel based procedural generation of Minecraft, as well as recreating the pathfinding algorithms of the villagers in Minecraft so that we could have NPC characters that can traverse the procedurally generated world along with the player.
+    <br>
+    Learn more about Not Minecraft and what I did on it <a href="https://goobydaniels.github.io/not-minecraft-page.html" target="_blank">here!</a>
     <br>
     <img src="./assets/images/NotMinecraft.png" alt="Project Screenshot" width="600" height="400">
     <br>

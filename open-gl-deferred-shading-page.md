@@ -2,12 +2,20 @@
 layout: default
 ---
 
-## Welcome to the page for youre it
+# Deferred Shading
 
 _yay_
 
 <body id="open-gl-deferred-shading-page">
-
+    <table>
+    <tr>
+        <td colspan="1" style="text-align: center;">
+        <b>
+            Choo choo... boom boom!!!
+        </b>
+        </td>
+    </tr>
+    </table>
 </body>
 
 [back](./)
