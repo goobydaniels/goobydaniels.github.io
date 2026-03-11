@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the page for youre it
+## Welcome to the page for Domain Expansion!!!
 
 _yay_
 
