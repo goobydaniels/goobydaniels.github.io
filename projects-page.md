@@ -13,7 +13,7 @@ layout: default
   </tr>
 </table>
 
-# <b>Choo Choo Boom Boom (Working title), 2026 Spring Semester (Still in development!)</b>
+# <b>Choo Choo Boom Boom, 2026 Spring Semester (Still in development!)</b>
 
 <table>
   <tr>
@@ -29,14 +29,14 @@ layout: default
   </tr>
 </table>
 
-# You're It! Fall, 2025 Semester (Still in development!)
+# You're It!, 2025 Fall Semester (Still in development!)
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
-    You're It! is a local and online multiplayer game that seeks to reinvigorate that feeling you would be chasing while on the playground during recess while playing tag with your classmates. Chase your friends around the playground and tag them! Players can jump, slide, and dive around the map to catch or evade. For every second you're it, your timer will go down. Run out of time, and you're out! Be the last one left to win!
+    You're It! is a 4 player local and online multiplayer game that seeks to reinvigorate that feeling you would be chasing on the playground during recess while playing tag with your classmates. Chase your friends around the playground and tag them by jumping, sliding, diving, and pushing your way to victory in one of three action packed tagging game modes, all fully customizable to your hearts desire! Be warned, for every second you're it, your timer will go down, run out of time, and you're out! Be the last one or last team left standing to win!
     <br>
-    See more about You're It! here: <a href="https://goobydaniels.github.io/youreit-page.html" target="_blank">here!</a>
+    Learn more about You're It! and what I did on it <a href="https://goobydaniels.github.io/youreit-page.html" target="_blank">here!</a>
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
     </video>
