@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Open GL Portals
-
-_yay_
+# **Open GL Portals**
 
 <body id="open-gl-portals-page">
     <table>

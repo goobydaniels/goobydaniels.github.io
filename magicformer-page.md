@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Magicformer
-
-_yay_
+# **Magicformer**
 
 <body id="magicformer-page">
     <table>

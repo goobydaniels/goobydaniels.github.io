@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# The Bee Game
-
-_yay_
+# **The Bee Game**
 
 <body id="bee-game-page">
     <table>

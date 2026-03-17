@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Domain Expansion!!!
-
-_yay_
+# **Domain Expansion**
 
 <body id="domain-expansion-page">
 <table>

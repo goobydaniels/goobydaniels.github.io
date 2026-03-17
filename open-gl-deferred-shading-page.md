@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Deferred Shading
-
-_yay_
+# **Deferred Shading**
 
 <body id="open-gl-deferred-shading-page">
     <table>

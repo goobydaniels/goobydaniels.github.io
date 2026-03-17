@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Not Minecraft
-
-_yay_
+# **Not Minecraft**
 
 <body id="not-minecraft-page">
     <table>

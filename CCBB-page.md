@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Choo Choo Boom Boom
+# **Choo Choo Boom Boom**
 
 <body id="CCBB-page">
     <table>

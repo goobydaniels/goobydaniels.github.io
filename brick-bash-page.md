@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Brick Bash
-
-_yay_
+# **Brick Bash**
 
 <body id="brick-bash-page">
     <table>

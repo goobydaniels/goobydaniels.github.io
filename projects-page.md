@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the Projects Page!!!
+# **Welcome to the Projects Page!!!**
 
 <table>
   <tr>
@@ -13,7 +13,7 @@ layout: default
   </tr>
 </table>
 
-# Choo Choo Boom Boom, 2026 Spring Semester (Still in development!)
+# Choo Choo Boom Boom, 2026 Spring Semester (In development!)
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ layout: default
   </tr>
 </table>
 
-# You're It!, 2025 Fall Semester (Still in development!)
+# You're It!, 2025 Fall Semester (In development!)
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
