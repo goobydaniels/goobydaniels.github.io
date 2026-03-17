@@ -10,7 +10,7 @@ layout: default
     <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :)
     <br>
     <br>
-    I hope you enjoy taking a look around, here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them, a few maybe missing because they're secret! (Or they're sadly lost) Also, if you couldn't already tell this is my first time using html so the site maybe a little jank but I've always wanted to learn how to make my own website so here it is!
+    I hope you enjoy taking a look around, here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them, a few projects may be missing because they're secret (Or they're sadly lost)! Also, if you couldn't already tell this is my first time using css and html so the site may be a little jank but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol.
     </b>
     </td>
   </tr>
@@ -47,6 +47,7 @@ layout: default
     <ul style="list-style-type: square;">
       <li><b>Currently, I am a Game Programming major at Champlain College with a minor in both Computer Science and Mathematics, and am planning to graduate in May of 2026.</b></li>
       <li><b>I spent my 2025 Spring semester at Champlain College studying abroad in Montreal, working closely with both my peers from Champlain and also professors and locals who are or were working within the game development industry, including individuals from Ubisoft Montreal, and Riot Games.</b></li>
+    </ul>
     </td>
   </tr>
 </table>
