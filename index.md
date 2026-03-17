@@ -7,11 +7,10 @@ layout: default
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
-    <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :)
+    <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :)</b>
     <br>
     <br>
-    I hope you enjoy taking a look around, here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them, a few projects may be missing because they're secret (Or they're sadly lost)! Also, if you couldn't already tell this is my first time using css and html so the site may be a little jank but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol.
-    </b>
+    <b>I hope you enjoy taking a look around, here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them, a few projects may be missing because they're secret (Or they're sadly lost)! Also, if you couldn't already tell this is my first time using css and html so the site may be a little jank but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol.</b>
     </td>
   </tr>
 </table>
@@ -30,7 +29,10 @@ layout: default
     So after being introduced to it one day at a friend’s house, at age 10 I made a roblox account and began playing games there, and then around age 12 I learned about Roblox Studio, and now realizing that I now had the ability to try and learn how to make my own games for a platform that I loved playing I immediately jumped in and the rest caused a domino effect getting me to where I am now.
     <br>
     <br>
-    If I had to sum up the core ideology I possess when it comes to game development with one quote, it would be one from former Nintendo of America President, Reggie Fils-Aimé, where he stated “If a game isn’t fun, why bother?” This quote really stuck with me because after hearing it I asked myself, why do people play games? What is the sole reason people play not just video games, but games in general? The answer I found was to have fun, to spend time doing something that they thoroughly enjoy and makes them happy.This sentiment is reflected in the way I value the games that I play, it's by how much I enjoy playing them, how "good" a game is to me isn't dependant on it's sales or how realistic it's graphics are, it's just simply based upon the answer to the question "Am I having fun?"
+    If I had to sum up the core ideology I possess in relation to game development with one quote, it would be one from former Nintendo of America President, Reggie Fils-Aimé, where he stated “If a game isn’t fun, why bother?” This quote really stuck with me because of the question it poses, what is the reason people play not just video games, but games in general?
+    <br>
+    <br>
+    The answer I ended up arriving at was to have fun, to spend time doing something that they thoroughly enjoy and makes them happy. This sentiment is reflected in the way I value the games that I play, it's by how much I enjoy playing them, how "good" a game is to me isn't dependant on it's sales or how realistic it's graphics are, it's just simply based upon the answer to the question "Am I having fun?"
     <br>
     <br>
     So to give a TL:DR I want to make games that people enjoy and can have fun playing, video games have always meant a lot to me and I wouldn’t be who I am today without them, so I want to give back to what made me who I am and give others the same chance that I had to feel as happy as I was when I was in their shoes.
@@ -55,7 +57,7 @@ layout: default
 
 # **My Skills**
 
-<table>
+<table class="equal-width-table">
   <tr>
     <th colspan="3" style="text-align: center;">
       Programming Language Proficiencies
@@ -83,7 +85,7 @@ layout: default
   </tr>
 </table>
 
-<table>
+<table class="equal-width-table">
   <tr>
     <th colspan="3" style="text-align: center;">Game Development Proficiencies</th>
   </tr>
