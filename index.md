@@ -2,43 +2,62 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="LouieDogIco.ico">
-
-# **Welcome!!!**
+# **Welcome**
 
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
-    <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :)<br>
-    I hope you enjoy taking a look around, here you can find some cool things about me and
-    <i>almost</i>
-    all of the projects I've worked on over the years, this website being one of them, a few maybe missing because they're secret! (Or they're sadly lost)<br>
-    Also, if you couldn't already tell this is my first time using html so the site maybe a little jank but I've always wanted to learn how to make my own website so here it is!
-    </b>
-    </td>
-  </tr>
-</table>
-
-## **My experiences!!!**
-
-<table>
-  <tr>
-    <td colspan="1" style="text-align: center;">
-    <b>Currently, I am a Game Programming major at Champlain College with a minor in both Computer Science and Mathematics, and am planning to graduate in May of 2026.
+    <b>Hello! I'm Alex Bianca, you may see me go by gooby online, and welcome to my portfolio website :)
     <br>
-    I spent my 2025 Spring semester at Champlain studying abroad in Montreal, working with many different people who are or were working within the game development industry, including folks from Ubisoft Montreal, and Riot Games.
+    <br>
+    I hope you enjoy taking a look around, here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them, a few maybe missing because they're secret! (Or they're sadly lost) Also, if you couldn't already tell this is my first time using html so the site maybe a little jank but I've always wanted to learn how to make my own website so here it is!
     </b>
     </td>
   </tr>
 </table>
 
+# **About Me**
+<table>
+  <tr>
+    <td colspan="1" style="text-align: Left;">
+    <b>
+    With introductions out of the way, (assuming you read the welcome text lol) allow me to lay out some more info about myself!
+    <br>
+    <br>
+    I grew up in Connecticut, I have lived there my whole life aside from the time I spent living in Vermont while attending Champlain College, and the semester I spent in Montreal. I have always had an interest and passion for video games, both playing them and making them. Playing and talking about games with others was one of the first ways that I can remember making my first friends at school, and funnily enough is still one of the main ways I make new friends to this day. So ever since I was young I knew that I wanted to do as much as I could with video games, I always had this dream of being able to one day be able to make my own games and share them with others so that they could enjoy them and hopefully be as happy as I was when I would play them.
+    <br>
+    <br>
+    So after being introduced to it one day at a friend’s house, at age 10 I made a roblox account and began playing games there, and then around age 12 I learned about Roblox Studio, and now realizing that I now had the ability to try and learn how to make my own games for a platform that I loved playing I immediately jumped in and the rest caused a domino effect getting me to where I am now.
+    <br>
+    <br>
+    If I had to sum up the core ideology I possess when it comes to game development with one quote, it would be one from former Nintendo of America President, Reggie Fils-Aimé, where he stated “If a game isn’t fun, why bother?” This quote really stuck with me because after hearing it I asked myself, why do people play games? What is the sole reason people play not just video games, but games in general? The answer I found was to have fun, to spend time doing something that they thoroughly enjoy and makes them happy.This sentiment is reflected in the way I value the games that I play, it's by how much I enjoy playing them, how "good" a game is to me isn't dependant on it's sales or how realistic it's graphics are, it's just simply based upon the answer to the question "Am I having fun?"
+    <br>
+    <br>
+    So to give a TL:DR I want to make games that people enjoy and can have fun playing, video games have always meant a lot to me and I wouldn’t be who I am today without them, so I want to give back to what made me who I am and give others the same chance that I had to feel as happy as I was when I was in their shoes.
+    </b>
+    </td>
+  </tr>
+</table>
 
-## **My Skills!!!**
+# **My Experiences**
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: left;">
+    <ul style="list-style-type: square;">
+      <li><b>Currently, I am a Game Programming major at Champlain College with a minor in both Computer Science and Mathematics, and am planning to graduate in May of 2026.</b></li>
+      <li><b>I spent my 2025 Spring semester at Champlain College studying abroad in Montreal, working closely with both my peers from Champlain and also professors and locals who are or were working within the game development industry, including individuals from Ubisoft Montreal, and Riot Games.</b></li>
+    </td>
+  </tr>
+</table>
+
+
+# **My Skills**
 
 <table>
   <tr>
     <th colspan="3" style="text-align: center;">
-      My Programming Language Proficiencies Include
+      Programming Language Proficiencies
     </th>
   </tr>
   <tr>
@@ -65,7 +84,7 @@ layout: default
 
 <table>
   <tr>
-    <th colspan="3" style="text-align: center;">My Game Development Proficiencies Include</th>
+    <th colspan="3" style="text-align: center;">Game Development Proficiencies</th>
   </tr>
   <tr>
     <td style="text-align:center;">Unreal Engine</td>
