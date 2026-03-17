@@ -17,7 +17,6 @@
     <div class="wrapper">
       <header>
         <h2 class="header">{{ site.title }} {{ site.description }}</h2>
-        <h3 class="header">Table of Contents:</h3>
         <ul>
           <li>
             <a class="home button" href="https://goobydaniels.github.io/">Home</a>
@@ -33,9 +32,12 @@
             </ul>
             <li>
               <a class="my projects button" href="https://goobydaniels.github.io/projects-page.html">My Projects</a>
+              <h3 class="header">Highlighted Projects:</h3>
             </li>
               <ul>
+                <li><p class="header"><a class="CCBB button" href="https://goobydaniels.github.io/CCBB-page.html">Choo Choo Boom Boom</a></p></li>
                 <li><p class="header"><a class="youre it button" href="https://goobydaniels.github.io/youreit-page.html">You're It!</a></p></li>
+                <li><p class="header"><a class="youre it button" href="https://goobydaniels.github.io/brick-bash-page.html">Brick Bash</a></p></li>
               </ul>
           </ul>
         </ul>
@@ -52,6 +54,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        <h3 class="header">Contact Me:</h3>
           <ul>
             <li><a class="resume button" href="https://docs.google.com/document/d/1OGVQBU3Ad1N05U_OcGA7jXi9ySjaElC8/edit?usp=sharing&ouid=108095993667865030685&rtpof=true&sd=true">My Resume</a></li>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">Personal GitHub</a></li>
