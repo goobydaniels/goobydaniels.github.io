@@ -44,4 +44,4 @@ layout: default
     </tr>
 </table>
 
-[back](./)
+[Back to projects page](./projects-page.html)

@@ -17,9 +17,6 @@ layout: default
   </tr>
 </table>
 
-[Link to another page](./youreit-page.html).
-[Link to projects page](./projects-page.html).
-
 ## **My experiences!!!**
 
 <table>

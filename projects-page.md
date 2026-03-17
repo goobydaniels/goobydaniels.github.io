@@ -39,7 +39,7 @@ layout: default
     <b>
     You're It! is a 4 player local and online multiplayer game that seeks to reinvigorate that feeling you would be chasing on the playground during recess while playing tag with your classmates. Chase your friends around the playground and tag them by jumping, sliding, diving, and pushing your way to victory in one of three action packed tagging game modes, all fully customizable to your hearts desire! Be warned, for every second you're it, your timer will go down, run out of time, and you're out! Be the last one or last team left standing to win!
     <br>
-    Learn more about You're It! and what I did on it <a href="https://goobydaniels.github.io/youreit-page.html" target="_blank">here!</a>
+    Learn more about You're It! and what I did on it <a href="./youreit-page.html">here!</a>
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
     </video>
@@ -57,7 +57,7 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project here: (You will need a Game Boy emulator to actually play the game!!! For the project I used Emulicious)
     <br>
-    Learn more about this Gameboy project and what I did on it <a href="https://goobydaniels.github.io/brick-bash-page.html" target="_blank">here!</a>
+    Learn more about this Gameboy project and what I did on it <a href="./brick-bash-page.html">here!</a>
     <br>
     <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
     </b>
@@ -73,7 +73,7 @@ layout: default
     <b>
     I utilized C++ and OpenGL to create a portal shader that utilizes multiple framebuffers to render and orient multiple instances of a scene within the bounds of a portal all while offering realtime customization of the portal’s rotation, position, and recursion amount. Click the link down below to downlaod the finished project!!! (You will need visual studio, with CMake tools installed, and will need to open the folder as a CMake project in visual studio, then select the "FinalPortal.exe" startup item)
     <br>
-    Learn more about this Portals project and what I did on it <a href="https://goobydaniels.github.io/open-gl-portals-page.html" target="_blank">here!</a>
+    Learn more about this Portals project and what I did on it <a href="./open-gl-portals-page.html">here!</a>
     <br>
     <img src="./assets/images/Portals.png" alt="Project Screenshot" width="600" height="400">
     </b>
@@ -89,7 +89,7 @@ layout: default
     <b>
     I utilized C++ and OpenGL to create a scene utilizing deffered shading, which is a 3D rendering technique that decouples scene geometry processing from lighting calculations, significantly optimizing scenes with high light counts. This is accomplished by storing geometric data—positions, normals, and material properties—into a G-buffer during a first pass, lighting is computed only for visible pixels in a second pass, enabling hundreds or thousands of light sources at high frame rates.
     <br>
-    Learn more about this Deferred Shading project <a href="https://goobydaniels.github.io/open-gl-deferred-shading-page.html" target="_blank">here!</a>
+    Learn more about this Deferred Shading project <a href="./open-gl-deferred-shading-page.html">here!</a>
     <br>
     <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" width="600" height="400">
     </b>
@@ -105,7 +105,7 @@ layout: default
     <b>
     Domain Expansion is CrabTap Studios' submission for the 2025 Global Game Jam. The game is a chaotic tycoon like experience where you try to buy and sell as many DOT COM (.com) domains (urls) as you can before the .com bubble bursts. Based on what topics are currently trending, domains that are related to those trends will make more money. Try to make as much money as possible as you manage buying and selling domains while putting up with annoying popup adds.
     <br>
-    Learn more about Domain Expansion and what I did on it <a href="https://goobydaniels.github.io/domain-expansion-page.html" target="_blank">here!</a>
+    Learn more about Domain Expansion and what I did on it <a href="./domain-expansion-page.html">here!</a>
     <br>
     <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" width="600" height="400">
     </b>
@@ -121,7 +121,7 @@ layout: default
     <b>
     In Bee Game, you play as a displaced bee whose hive has been destroyed. You must fly around in a vast garden, in search of resources -- and friends -- to help repair the hive. Soar high and low in this open area adventure game, but avoid dangerous hazards looking to hinder, harm, or outright end your little bee life. Inspired by games like Pikmin, Bee Game aims to show players how hazardous the life of a bee can be, as well as what they can do to help contribute to the safety and survival of our little black and yellow friends.
     <br>
-    Learn more about The Bee Game and what I did on it <a href="https://goobydaniels.github.io/bee-game-page.html" target="_blank">here!</a>
+    Learn more about The Bee Game and what I did on it <a href="./bee-game-page.html">here!</a>
     <br>
     <img src="./assets/images/BeeGame.png" alt="Project Screenshot" width="600" height="400">
     <br>
@@ -142,7 +142,7 @@ layout: default
     <br>
     For this project we used Unity and I was in charge of creating the game's movement system, the item pick up mechanic, and various other core gameplay features.
     <br>
-    Learn more about Magicformer and what I did on it <a href="https://goobydaniels.github.io/magicformer-page.html" target="_blank">here!</a>
+    Learn more about Magicformer and what I did on it <a href="./magicformer-page.html">here!</a>
     <br>
     <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" width="600" height="400">
     <br>
@@ -159,7 +159,7 @@ layout: default
     <b>
     This project was the final for my Game AI class where I was a part of a team of three and was tasked with creating a project that utilized multiple of the different AI systems we had learned to create throughout the class into one project. My group chose to recreate the voxel based procedural generation of Minecraft, as well as recreating the pathfinding algorithms of the villagers in Minecraft so that we could have NPC characters that can traverse the procedurally generated world along with the player.
     <br>
-    Learn more about Not Minecraft and what I did on it <a href="https://goobydaniels.github.io/not-minecraft-page.html" target="_blank">here!</a>
+    Learn more about Not Minecraft and what I did on it <a href="./not-minecraft-page.html">here!</a>
     <br>
     <img src="./assets/images/NotMinecraft.png" alt="Project Screenshot" width="600" height="400">
     <br>

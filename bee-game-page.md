@@ -19,4 +19,4 @@ _yay_
         
 </body>
 
-[back](./)
+[Back to projects page](./projects-page.html)

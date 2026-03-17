@@ -22,4 +22,4 @@ _yay_
 </table>
 </body>
 
-[back](./)
+[Back to projects page](./projects-page.html)

@@ -25,4 +25,4 @@ layout: default
   </tr>
 </table>
 
-[back](./)
+[Back to home](./)
