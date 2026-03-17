@@ -57,7 +57,7 @@ layout: default
     This project was my final for my Computer Architecture class. The underlying requirement for this final was to utilize assembly programming in some kind of long term project, many options were presented to me but I chose to take on the challenge of making a Game Boy game, which are all completely written in assembly.
     <br>
     <br>
-    You can read about my process while making this project and download the final project <a href="./brick-bash-page.html">here!</a> (You will need a Game Boy emulator to actually play the game!!! For the project I used Emulicious)
+    You can read about my process while making this project and download the final project <a href="./brick-bash-page.html">here!</a> (You will need an emulator to actually play the game! For the project I used Emulicious but any Game Boy or Game Boy Advance emulator should work.)
     <br>
     <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
     </b>
