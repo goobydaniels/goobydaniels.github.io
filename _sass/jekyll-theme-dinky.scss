@@ -278,6 +278,7 @@ pre {
 
 table {
   width:100%;
+  table-layout: fixed;
 }
 
 table {
@@ -297,6 +298,8 @@ th {
   background: #1a657c;
   // Header box text color
   color: #c58e6a;
+  // Text wrap
+  word-wrap: break-word;
  }
 
 td {
