@@ -15,12 +15,12 @@ layout: default
                 data="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
                 type="application/pdf"
                 width="100%"
-                height="100%"
+                height="800%"
             >
             <iframe
                 src="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
                 width="100%"
-                height="100%"
+                height="800%"
                 style="border: none;"
             >
             <p>
