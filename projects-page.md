@@ -22,7 +22,7 @@ layout: default
     Choo Choo Boom Boom is an on rails shooter in which you are on a train equipped with cannons trying to take out an otherworldly entity that is attacking your city. Choo Choo Boom Boom stemmed from the idea of what would be a literal on rails shooter. You can’t get more on rails than a train. So we took that train and strapped an explosive cannon on it.
     <br>
     [Link to another page](./youreit-page.html).
-    Learn more about Choo Choo Boom Boom and what I did on it <a href="./CCBB-page.html" target="_blank">here!</a>
+    Learn more about Choo Choo Boom Boom and what I did on it <a href="./CCBB-page.html">here!</a>
     <br>
     </b>
     <video controls width = "800" height = "600">
