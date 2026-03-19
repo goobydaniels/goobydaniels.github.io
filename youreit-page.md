@@ -20,7 +20,7 @@ layout: default
     </table>
 </body>
 
-## Character Movement
+## **Character Movement**
 
 <table>
     <tr>
@@ -32,7 +32,7 @@ layout: default
     </tr>
 </table>
 
-### Diving
+### **Diving**
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ layout: default
     </tr>
 </table>
 
-### Sliding
+### **Sliding**
 
 <table>
     <tr>
@@ -64,7 +64,7 @@ layout: default
     </tr>
 </table>
 
-### Crouching
+### **Crouching**
 
 <table>
     <tr>
@@ -78,7 +78,7 @@ layout: default
     </tr>
 </table>
 
-### Stun
+### **Stun**
 
 <table>
     <tr>
@@ -96,7 +96,7 @@ layout: default
     </tr>
 </table>
 
-### Slipstream
+### **Slipstream**
 
 <table>
     <tr>
@@ -108,7 +108,7 @@ layout: default
     </tr>
 </table>
 
-## Local Multiplayer
+## **Local Multiplayer**
 
 <table>
     <tr>
@@ -120,7 +120,7 @@ layout: default
     </tr>
 </table>
 
-## Networked Multiplayer
+## **Networked Multiplayer**
 
 <table>
     <tr>
@@ -132,7 +132,7 @@ layout: default
     </tr>
 </table>
 
-## Custom Match Settings
+## **Custom Match Settings**
 
 <table>
     <tr>
@@ -144,7 +144,7 @@ layout: default
     </tr>
 </table>
 
-## Tagging
+## **Tagging**
 
 <table>
     <tr>
@@ -156,7 +156,7 @@ layout: default
     </tr>
 </table>
 
-## UI/Menus
+## **UI/Menus**
 
 <table>
     <tr>
