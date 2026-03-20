@@ -102,7 +102,9 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItSlipstreamDemo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
@@ -114,7 +116,9 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItLocalMuliplayerDemo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
@@ -126,7 +130,13 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItNetworkedMultiplayerDemo.mp4" type="video/mp4">
+            </video>
+            <br>
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItSteamMultiplayerDemo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
@@ -138,7 +148,13 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItCustomMatchSettings1Demo.mp4" type="video/mp4">
+            </video>
+            <br>
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItCustomMatchSettings2Demo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
@@ -150,7 +166,9 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItTaggingDemo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
@@ -162,7 +180,9 @@ layout: default
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
-            
+            <video controls width = "800" height = "600">
+                <source src=".\assets\videos\YoureItDemos\YoureItUiDemo.mp4" type="video/mp4">
+            </video>
         </b>
         </td>
     </tr>
