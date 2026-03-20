@@ -149,11 +149,11 @@ layout: default
         <td colspan="1" style="text-align: center;">
         <b>
             <video controls width = "800" height = "600">
-                <source src=".\assets\videos\YoureItDemos\YoureItCustomMatchSettings1Demo.mp4" type="video/mp4">
+                <source src=".\assets\videos\YoureItDemos\YoureItCustomSettingsDemo1.mp4" type="video/mp4">
             </video>
             <br>
             <video controls width = "800" height = "600">
-                <source src=".\assets\videos\YoureItDemos\YoureItCustomMatchSettings2Demo.mp4" type="video/mp4">
+                <source src=".\assets\videos\YoureItDemos\YoureItCustomSettingsDemo2.mp4" type="video/mp4">
             </video>
         </b>
         </td>
