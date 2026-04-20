@@ -4,6 +4,9 @@ layout: default
 
 # **Welcome!!!**
 
+<audio src = ".\assets\audio\The Third Sanctuary (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3" loop = "true" autostart = "true" hidden = "true">
+</audio>
+
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
