@@ -2,17 +2,7 @@
 layout: default
 ---
 
-<header>
-    <table>
-    <tr>
-        <td colspan="1" style="text-align: center;">
-        <b>
-            <img src="./assets/images/YoureItLogo.png" alt="Project logo" width="200" height="200">
-        </b>
-        </td>
-    </tr>
-    </table>
-</header>
+# <img src="./assets/images/YoureItLogo.png" alt="Project logo" width="200" height="200">
 
 <body id="youre-it-page">
     <table>

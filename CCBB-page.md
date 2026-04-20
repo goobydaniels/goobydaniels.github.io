@@ -2,17 +2,7 @@
 layout: default
 ---
 
-<header>
-    <table>
-    <tr>
-        <td colspan="1" style="text-align: center;">
-        <b>
-            <img src="./assets/images/ccbb_logo_highlight.png" alt="Project logo" width="640" height="175">
-        </b>
-        </td>
-    </tr>
-    </table>
-</header>
+# <img src="./assets/images/ccbb_logo_highlight.png" alt="Project logo" width="640" height="175">
 
 <body id="CCBB-page">
     <table>
