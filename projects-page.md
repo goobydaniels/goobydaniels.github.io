@@ -24,7 +24,7 @@ layout: default
     <br>
     Learn more about Choo Choo Boom Boom and what I did on it <a href="./CCBB-page.html">here!</a>
     <br>
-    Check out the game's Steam page <a href="https://store.steampowered.com/app/4561070/Choo_Choo_Boom_Boom/">here!</a>
+    Check out the game's Steam page <a href="https://docs.google.com/document/d/1dQhFmTaI_uBz6Q1KBg_msHWr8LCmrlmBEDX2CJVSHTA/edit?usp=sharing" target="_blank">here!</a>
     <br>
     </b>
     <video controls width = "800" height = "600">

@@ -4,6 +4,8 @@ layout: default
 
 # **The Bee Game**
 
+<img src="./assets/images/BeeGameLogo.png" alt="Project logo" width="400" height="400">
+
 <body id="bee-game-page">
     <table>
     <tr>

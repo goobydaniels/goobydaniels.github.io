@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Choo Choo Boom Boom**
+# <img src="./assets/images/CompArch.png" alt="Project logo" width="640" height="175">
 
 <body id="CCBB-page">
     <table>
@@ -16,8 +16,7 @@ layout: default
     </table>
 </body>
 
-## In-Game Scoring System, Rotating Counter Ui, High Score Leaderboards Data Base Systems
-
+## Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -52,7 +51,6 @@ layout: default
 </table>
 
 ## In-Game Settings Systems
-
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">

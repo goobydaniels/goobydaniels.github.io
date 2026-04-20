@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **You're It!**
+# <img src="./assets/images/YoureItLogo.png" alt="Project logo" width="400" height="400">
 
 <body id="youre-it-page">
     <table>
