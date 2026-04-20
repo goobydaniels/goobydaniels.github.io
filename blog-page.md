@@ -25,4 +25,32 @@ layout: default
   </tr>
 </table>
 
+## 4/20/26 3:31 am
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+     Idk how but i somehow got the website to embed itself within the website
+     <object
+                data="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
+                type="application/pdf"
+                width="100%"
+                height="800%"
+            >
+            <iframe
+                src="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
+                width="100%"
+                height="800%"
+                style="border: none;"
+            >
+            <p>
+            Your browser does not support PDF viewing.
+            </p>
+            </iframe>
+            </object>
+    </b>
+    </td>
+  </tr>
+</table>
+
 [Back to home](./)
