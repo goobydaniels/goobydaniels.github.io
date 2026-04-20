@@ -80,7 +80,7 @@ layout: default
             No arcade cabinet is complete without its own attract mode, in case you’re unaware of what an attract mode is, an attract mode is a sort of “demo mode” that an arcade machine will enter when it is on the title screen and is not being actively used. While in this mode, the cabinet screen will display a demo of gameplay so that it can “attract” people walking by the cabinet to play it. I was tasked with creating the systems necessary to replicate this key part of arcade culture within Choo Choo Boom Boom.
             <br>
             <video controls width = "800" height = "600">
-                <source src=".\assets\videos\CCBBDemos\AttractModeScreen.mp4" type="video/mp4">
+                <source src=".\assets\videos\CCBBDemos\CCBBAttractScreenDemo.mp4" type="video/mp4">
             </video>
             <br>
             Read the full official documentation for how I accomplished this <a href="https://docs.google.com/document/d/1eOQ8ZaAhFawH2oGGQtuxxI6bxyqWcSVXsQXDlW71Wl8/edit?usp=sharing" target="_blank">here!</a>
