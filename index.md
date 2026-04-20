@@ -4,7 +4,9 @@ layout: default
 
 # **Welcome!!!**
 
-<audio src = ".\assets\audio\The Third Sanctuary (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3" loop = "true" autostart = "true" hidden = "true">
+<audio controls loop>
+  <source src=".\assets\audio\The Third Sanctuary (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
 
 <table>
