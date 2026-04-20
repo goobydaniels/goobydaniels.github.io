@@ -2,7 +2,17 @@
 layout: default
 ---
 
-# <img src="./assets/images/CompArch.png" alt="Project logo" width="640" height="175">
+<header>
+    <table>
+    <tr>
+        <td colspan="1" style="text-align: center;">
+        <b>
+            <img src="./assets/images/ccbb_logo_highlight.png" alt="Project logo" width="640" height="175">
+        </b>
+        </td>
+    </tr>
+    </table>
+</header>
 
 <body id="CCBB-page">
     <table>

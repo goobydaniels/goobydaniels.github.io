@@ -2,9 +2,17 @@
 layout: default
 ---
 
-# **The Bee Game**
-
-<img src="./assets/images/BeeGameLogo.png" alt="Project logo" width="400" height="400">
+<header>
+    <table>
+    <tr>
+        <td colspan="1" style="text-align: center;">
+        <b>
+            <img src="./assets/images/BeeGameLogo.png" alt="Project logo" width="200" height="200">
+        </b>
+        </td>
+    </tr>
+    </table>
+</header>
 
 <body id="bee-game-page">
     <table>
