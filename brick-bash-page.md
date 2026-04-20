@@ -11,22 +11,10 @@ layout: default
         <b>
             For this project I went ahead and created a pdf write up, it goes over in detail all of the steps I took inorder to get this entire project working along with some code snippets and more screen shots! If the pdf doesn't show up below then that might mean your current browser doesn't support embeded pdf files, if this is the case, try downloading the full project from the link at the bottom of the page and opening the pdf from there. That download also contains the necessary files for an emulator to run the game if you want to try to game out for yourself!
             <br>
-            <object
-                data="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
-                type="application/pdf"
-                width="100%"
-                height="800%"
-            >
-            <iframe
-                src="goobydaniels.github.io\assets\pdfs\Final_Project_Comp_Arch.pdf"
-                width="100%"
-                height="800%"
-                style="border: none;"
-            >
-            <p>
-            Your browser does not support PDF viewing.
-            </p>
-            </iframe>
+            <object data=".\assets\pfds\Final_Project_Comp_Arch.pdf" type="application/pdf" width="100%" height="600px">
+                <p>Your browser does not support PDFs. 
+                <a href=".\assets\pfds\Final_Project_Comp_Arch.pdf">Download the PDF instead.</a>
+                </p>
             </object>
             <br>
             <br>

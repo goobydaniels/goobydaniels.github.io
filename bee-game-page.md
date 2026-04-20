@@ -2,7 +2,7 @@
 layout: default
 ---
 
- # <img src="./assets/images/BeeGameLogo.png" alt="Project logo" width="200" height="200">
+# <img src="./assets/images/BeeGameLogo.png" alt="Project logo" width="200" height="200">
 
 <body id="bee-game-page">
     <table>

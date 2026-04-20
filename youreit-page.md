@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <img src="./assets/images/YoureItLogo.png" alt="Project logo" width="200" height="200">
+# <img src="./assets/images/YoureItLogoWBackground.png" alt="Project logo" width="200" height="200">
 
 <body id="youre-it-page">
     <table>
