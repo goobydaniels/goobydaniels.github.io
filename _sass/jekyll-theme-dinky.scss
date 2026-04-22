@@ -331,6 +331,16 @@ td {
 
 /* Mobile behavior */
 @media (max-width: 768px) {
+  header {
+    transform: translateX(-100%);
+    position: fixed;
+    z-index: 1000;
+  }
+
+  header:not(.hidden) {
+    transform: translateX(0);
+  }
+  
   .wrapper.shifted {
     margin-left: 0;
   }
@@ -343,7 +353,8 @@ header {
 	background-color: #05040a;
 	color: #FDFDFB;
   // Side box width
-  width: 300px;
+  width: 80vw;
+  max-width: 300px;
   // Side box height
   /* height: 725px; */
   float:left;
@@ -472,7 +483,8 @@ a.buttons:hover {
 
 section {
   // Main text section width
-  width:1000px;
+  width: auto;
+  max-width: 100%;
   // Main text section alignment from side box
   float:none;
   padding-right: 0px;
