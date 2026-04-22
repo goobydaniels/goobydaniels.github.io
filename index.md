@@ -12,7 +12,7 @@ layout: default
     (You'll also likely see me go by Gooby online in addition to Alex, feel free to refer to me by either name, Gooby is just a silly nickname given to me in high school and my friends in college started jokingly calling me it to better differentiate me from all of the other Alexs that were on campus, and from that the name just stuck.)
     <br>
     <br>
-    Here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them. A few projects may be missing either because they're a secret, or because I sadly lost access to them)! Also, if you couldn't already tell this is my first time using css and html so the site may be a little jank but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol.
+    Here you can find some cool things about me and almost all of the projects I've worked on over the years, this website being one of them. A few projects may be missing either because they're a secret, or because I sadly lost access to them)! Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have an late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
     <br>
     <br>
     For a brief introduction of myself, I grew up in Connecticut, I have lived there basically my whole life aside from the time I spent living in Vermont while attending Champlain College, and the semester I spent abroad in Montreal.

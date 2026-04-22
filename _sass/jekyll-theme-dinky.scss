@@ -346,6 +346,14 @@ td {
   }
 }
 
+@media (min-width: 769px)
+{
+  .wrapper.shifted {
+    margin-left: 300px;
+    transition: margin 0.3s ease;
+  }
+}
+
 /* Header */
 
 header {
