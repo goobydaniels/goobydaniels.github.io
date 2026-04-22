@@ -340,9 +340,17 @@ td {
   header:not(.hidden) {
     transform: translateX(0);
   }
+
+    .wrapper {
+    display: block; /* stop flex from interfering */
+  }
+
+  section {
+    padding-left: 20px; /* REMOVE big left padding */
+  }
   
   .wrapper.shifted {
-    margin-left: 0;
+    margin-left: 1000px;
   }
 }
 
@@ -351,6 +359,18 @@ td {
   .wrapper.shifted {
     margin-left: 300px;
     transition: margin 0.3s ease;
+  }
+
+    .wrapper {
+    display: flex;
+  }
+
+  section {
+    padding-left: 40px; /* normal spacing */
+  }
+
+  .wrapper.shifted {
+    margin-left: 300px;
   }
 }
 
