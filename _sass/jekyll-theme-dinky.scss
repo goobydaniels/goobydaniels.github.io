@@ -332,9 +332,12 @@ td {
 /* Mobile behavior */
 @media (max-width: 768px) {
   header {
-    transform: translateX(-100%);
     position: fixed;
-    z-index: 1000;
+    left: 0;
+    top: 0;
+    height: 100%;
+    transform: translateX(-100%);
+    z-index: 2000;
   }
 
   header:not(.hidden) {
