@@ -311,12 +311,11 @@ td {
 
 /* Wrapper */
 .wrapper {
-  width:960px;
   display: flex;
 }
 
 .wrapper.shifted {
-  margin-left: 260px;
+  margin-left: 0px;
   transition: margin 0.3s ease;
 }
 
@@ -475,8 +474,8 @@ section {
   width:1000px;
   // Main text section alignment from side box
   float:none;
-  padding-right: 200px;
-  padding-left: 500px;
+  padding-right: 0px;
+  padding-left: 400px;
   // Main text section bottom padding
   padding-bottom:50px;
 }
