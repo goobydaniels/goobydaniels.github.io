@@ -312,8 +312,30 @@ td {
 /* Wrapper */
 .wrapper {
   width:960px;
+  display: flex;
 }
 
+.wrapper.shifted {
+  margin-left: 260px;
+  transition: margin 0.3s ease;
+}
+
+#menuToggle {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  z-index: 1100;
+  font-size: 24px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+/* Mobile behavior */
+@media (max-width: 768px) {
+  .wrapper.shifted {
+    margin-left: 0;
+  }
+}
 
 /* Header */
 
@@ -342,6 +364,12 @@ header {
   // Side box's distance from the top of the page, unsure, when 1 moves the box up while remaining left aligned
 	margin: 0px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
+  overflow-y: auto;
+  transition: transform 0.3s ease;
+}
+
+header.hidden {
+  transform: translateX(-100%);
 }
 
 p.header {

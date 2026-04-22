@@ -61,7 +61,9 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project <a href="./brick-bash-page.html">here!</a> (You will need an emulator to actually play the game! For the project I used Emulicious but any Game Boy or Game Boy Advance emulator should work.)
     <br>
-    <img src="./assets/images/CompArch.png" alt="Project Screenshot" width="600" height="450">
+    <video controls width = "800" height = "600">
+      <source src=".\assets\videos\BrickBash.mp4" type="video/mp4">
+    </video>
     </b>
     </td>
   </tr>
@@ -198,5 +200,7 @@ layout: default
 ## Chinese Lunar New Year Minigames, 2024 Spring Semester
 
 ## Search, 2024 Spring Semester -->
+
+
 
 [back](./)

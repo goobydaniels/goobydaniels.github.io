@@ -14,8 +14,9 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <button id = "menuToggle">☰</button>
     <div class="wrapper">
-      <header>
+      <header class = "hidden">
         <h2 class="header">{{ site.title }} {{ site.description }}</h2>
         <ul>
           <li>
@@ -79,5 +80,20 @@
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    <script>
+      const sidebar = document.querySelector("header");
+      const wrapper = document.querySelector(".wrapper");
+      const toggleBtn = document.getElementById("menuToggle");
+
+      let isOpen = true;
+
+      toggleBtn.addEventListener("click", () => {
+        sidebar.classList.toggle("hidden");
+        wrapper.classList.toggle("shifted");
+
+        isOpen = !isOpen;
+        toggleBtn.textContent = isOpen ? "✕" : "☰";
+      });
+    </script>
   </body>
 </html>
