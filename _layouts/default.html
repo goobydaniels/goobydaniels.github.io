@@ -64,12 +64,48 @@
         <h3 class="header">
           Featured Song:
           <br>
-          The Third Sanctuary - Toby Fox
+          <span id = "songTitle"></span>
         </h3>
-        <audio controls loop>
-          <source src=".\assets\audio\The Third Sanctuary (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3" type="audio/mpeg">
+        <audio id = "featuredAudio" controls loop>
+          <source id = "audioSource" src = "" type= "audio/mpeg">
           Your browser does not support the audio element.
         </audio>
+
+        <script>
+          const songs = [
+            {
+              title: "The Third Sanctuary - Toby Fox",
+              file: "The Third Sanctuary (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3"
+            },
+            {
+              title: "Interludio De Medicamento - Suff Daddy",
+              file: "Interludio De Medicamento - Made with Clipchamp.mp3"
+            },
+            {
+              title: "Marcel - Her's",
+              file: "Hers Marcel Official Audio 4.mp3"
+            },
+            {
+              title: "From Now On (Battle 2) - Toby Fox",
+              file: "From Now On (Battle 2) (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox.mp3"
+            },
+            {
+              title: "Lover Is a Day - CUCO",
+              file: "CUCO Lover Is a Day Audio.mp3"
+            }
+          ];
+
+          const randomSong = songs[Math.floor(Math.random() * songs.length)];
+
+          const audio = document.getElementById("featuredAudio");
+          const source = document.getElementById("audioSource");
+          const title = document.getElementById("songTitle");
+
+          source.src = "./assets/audio/" + randomSong.file;
+          title.textContent = randomSong.title;
+
+          audio.load();
+        </script>
       </header>
 
       <section>
