@@ -43,6 +43,7 @@ layout: default
     <br>
     <br>
     Learn more about You're It! and what I did on it <a href="./youreit-page.html">here!</a>
+    <br>
     <video controls width = "800" height = "600">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
     </video>
