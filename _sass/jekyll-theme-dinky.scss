@@ -336,6 +336,7 @@ td {
     left: 0;
     top: 0;
     height: 100%;
+    width: 100%;
     transform: translateX(-100%);
     z-index: 2000;
   }
@@ -347,35 +348,31 @@ td {
     .wrapper {
     display: block; /* stop flex from interfering */
   }
-
-  section {
-    padding-left: 20px; /* REMOVE big left padding */
-  }
   
   .wrapper.shifted {
     margin-left: px;
   }
 }
 
-@media (min-width: 769px)
-{
-  .wrapper.shifted {
-    margin-left: 300px;
-    transition: margin 0.3s ease;
-  }
+// @media (min-width: 769px)
+// {
+//   .wrapper.shifted {
+//     margin-left: 300px;
+//     transition: margin 0.3s ease;
+//   }
 
-    .wrapper {
-    display: flex;
-  }
+//     .wrapper {
+//     display: flex;
+//   }
 
-  section {
-    padding-left: 40px; /* normal spacing */
-  }
+//   section {
+//     padding-left: 40px; /* normal spacing */
+//   }
 
-  .wrapper.shifted {
-    margin-left: 300px;
-  }
-}
+//   .wrapper.shifted {
+//     margin-left: 300px;
+//   }
+// }
 
 /* Header */
 
