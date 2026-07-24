@@ -66,7 +66,7 @@ layout: default
   </tr>
   <tr>
     <td style="text-align:center;"><a href="./unreal-projects-page.html">Unreal Engine</a></td>
-    <td style="text-align:center;"><a href="./unity-projects-page.html">unity</a></td>
+    <td style="text-align:center;"><a href="./unity-projects-page.html">Unity</a></td>
     <td style="text-align:center;"><a href="./roblox-studio-projects-page.html">Roblox Studio</a></td>
   </tr>
 </table>
