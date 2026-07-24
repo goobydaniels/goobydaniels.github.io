@@ -51,7 +51,7 @@ layout: default
   <tr>
     <td style="text-align:center;"><a href="./c++-projects-page.html">C++</a></td>
     <td style="text-align:center;"><a href="./css-html-projects-page.html">CSS</a></td>
-    <td style="text-align:center;"><a href="./lua-projects-page.html">Lua</td>
+    <td style="text-align:center;"><a href="./lua-projects-page.html">Lua</a></td>
   </tr>
   <tr>
     <td style="text-align:center;"><a href="./java-projects-page.html">Java</a></td>
