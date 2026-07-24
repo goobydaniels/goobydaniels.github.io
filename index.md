@@ -39,24 +39,24 @@ layout: default
     </th>
   </tr>
   <tr>
-    <td style="text-align:center;">C</td>
-    <td style="text-align:center;">x86 Assembly</td>
-    <td style="text-align:center;">PowerShell</td>
+    <td style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
+    <td style="text-align:center;"><a href="./assembly-projects-page.html">x86 Assembly</a></td>
+    <td style="text-align:center;"><a href="./powershell-bash-projects-page.html">PowerShell</a></td>
   </tr>
   <tr>
-    <td style="text-align:center;">C#</td>
-    <td style="text-align:center;">x64 Assembly</td>
-    <td style="text-align:center;">Bash</td>
+    <td style="text-align:center;"><a href="./c#-projects-page.html">C#</a></td>
+    <td style="text-align:center;"><a href="./assembly-projects-page.html">x64 Assembly</a></td>
+    <td style="text-align:center;"><a href="./powershell-bash-projects-page.html">Bash</a></td>
   </tr>
   <tr>
-    <td style="text-align:center;">C++</td>
-    <td style="text-align:center;">CSS</td>
-    <td style="text-align:center;">Lua</td>
+    <td style="text-align:center;"><a href="./c++-projects-page.html">C++</a></td>
+    <td style="text-align:center;"><a href="./css-html-projects-page.html">CSS</a></td>
+    <td style="text-align:center;"><a href="./lua-projects-page.html">Lua</td>
   </tr>
   <tr>
-    <td style="text-align:center;">Java</td>
-    <td style="text-align:center;">HTML</td>
-    <td style="text-align:center;">Swift</td>
+    <td style="text-align:center;"><a href="./java-projects-page.html">Java</a></td>
+    <td style="text-align:center;"><a href="./css-html-projects-page.html">HTML</a></td>
+    <td style="text-align:center;"><a href="./swift-projects-page.html">Swift</a></td>
   </tr>
 </table>
 
@@ -65,9 +65,9 @@ layout: default
     <th colspan="3" style="text-align: center;">Game Development Proficiencies</th>
   </tr>
   <tr>
-    <td style="text-align:center;">Unreal Engine</td>
-    <td style="text-align:center;">Unity</td>
-    <td style="text-align:center;">Roblox Studio</td>
+    <td style="text-align:center;"><a href="./unreal-projects-page.html">Unreal Engine</a></td>
+    <td style="text-align:center;"><a href="./unity-projects-page.html">unity</a></td>
+    <td style="text-align:center;"><a href="./roblox-studio-projects-page.html">Roblox Studio</a></td>
   </tr>
 </table>
 
