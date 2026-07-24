@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Welcome to the Unity / C# Projects Page!!!**
+# **Welcome to the Unity Projects Page!!!**
 
 <table>
   <tr>
