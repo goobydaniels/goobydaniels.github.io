@@ -22,6 +22,9 @@
           <li>
             <a class="home button" href="https://goobydaniels.github.io/">Home</a>
           </li>
+          <li>
+            <a class="about me button" href="https://goobydaniels.github.io/about-me.html">About me</a>
+          </li>
           <ul>
             <li>
               <a class="blog button" href="https://goobydaniels.github.io/blog-page.html">Gooby's Galavanting</a>
@@ -120,7 +123,7 @@
       const wrapper = document.querySelector(".wrapper");
       const toggleBtn = document.getElementById("menuToggle");
 
-      let isOpen = true;
+      let isOpen = false;
 
       toggleBtn.addEventListener("click", () => {
         sidebar.classList.toggle("hidden");

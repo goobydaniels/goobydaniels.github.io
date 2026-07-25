@@ -11,6 +11,9 @@ layout: default
     With introductions out of the way, (assuming you read the welcome text lol) allow me to lay out some more info about myself!
     <br>
     <br>
+    As you hopefully saw before my real name is Alex but you'll also likely see me go by Gooby online in addition to Alex, feel free to refer to me by either name, Gooby is just a silly nickname given to me in high school and my friends in college started jokingly calling me it to better differentiate me from all of the other Alexs that were on campus, and from that the name just stuck.
+    <br>
+    <br>
     I have always had an interest and passion for video games, both playing them and making them. Playing and talking about games with others was one of the first ways that I can remember making my first friends at school, and funnily enough is still one of the main ways I make new friends to this day.
     <br>
     Ever since I was young I knew that I wanted to do as much as I could with video games, I always had this dream of being able to one day be able to make my own games and share them with others so that they could enjoy them and hopefully be as happy as I was when I would play them.
@@ -26,9 +29,10 @@ layout: default
     <br>
     <br>
     So to give a TL:DR I want to make games that people enjoy and can have fun playing, video games have always meant a lot to me and I wouldn’t be who I am today without them, so I want to give back to what made me who I am and give others the same chance that I had to feel as happy as I was when I was in their shoes.
+    <br>
+    <br>
+    <a href="./">Back to home page</a>
     </b>
     </td>
   </tr>
 </table>
-
-[Back to home](./)

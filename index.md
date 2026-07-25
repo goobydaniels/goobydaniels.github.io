@@ -9,10 +9,14 @@ layout: default
     <td colspan="1" style="text-align: center;">
     Hiya! I'm Alex Bianca and welcome to my portfolio website :)
     <br>
-    (You'll also likely see me go by Gooby online in addition to Alex, feel free to refer to me by either name, Gooby is just a silly nickname given to me in high school and my friends in college started jokingly calling me it to better differentiate me from all of the other Alexs that were on campus, and from that the name just stuck.)
+    <br>
+    Here you can find some cool things about me while taking a look at the projects I've worked on over the years, with this website being one of them. To see a complete list of all of my projects you can either click the "My Projects" button located in the side bar (you make it appear by clicking the button with three lines on it), or click one of the links in the tables at the bottom of this page to see programming language or game engine specific projects!
     <br>
     <br>
-    Here you can find some cool things about me and almost all of the projects I've worked on over the years, with this website being one of them. Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have a late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
+    Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have a late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
+    <br>
+    <br>
+    But other than that, I hope you enjoy taking a look around and if you're looking to contact me you can find links to my resume and personal github accounts at the bottom of the side bar.
     </td>
   </tr>
 </table>
@@ -20,18 +24,12 @@ layout: default
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
-    For a brief introduction of myself, I grew up in Connecticut, I have lived there basically my whole life aside from the time I spent living in Vermont while attending Champlain College.
-    <br>
-    <br>
     On May 5th, 2026 I completed my Bachelors of Science in Game Programming and graduated from Champlain College along with a minor in both Computer Science and Mathematics also from Champlain College. During my time at Champlain College, for my 2025 spring semester I was given the amazing opportunity to spend a semester abroad in Montreal. During this time I was given the rare chance to work closely with both my peers from Champlain, professors who were Montreal locals, and both former and current individuals working within the game development industry, from companies such as Ubisoft Montreal, and Riot Games.
     <br>
     <br>
-    Annnnd that about wraps it up, I'll keep to introduction brief so you can start taking a perusing the site, I hope you enjoy taking a look around and if you are a potential employer (or an AI bot scrapping this website lol) at the bottom of the side bar you can find buttons that link to my resume with ways to contact me and my Github accounts where you can check out the repos for the projects I showcase here.
+    If you want to learn a bit more about me, my experiences, and my game development philosophies you can click the "About me" button located in the side bar!
     <br>
-    <br>
-    Also if you want to learn a bit more about me and my game development philosophies you can click the button down below!
-    <br>
-    <a class="about me button" href="./about-me.html">Go to about me</a>
+    <a class="about me button" href="./about-me.html">Go to about me!</a>
     <br>
     <br>
     Also be sure to check out my blog page here for updates on projects that I'm currently working on, or just general updates about me in general. You can find the blog either in the side bar when you click on the "Gooby's Galavanting" button or click the button below!
