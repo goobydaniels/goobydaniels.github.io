@@ -31,7 +31,7 @@ time, mark, audio, video {
 
 body {
   // Padding from the top of the page, horizontal padding, padding from the bottom of the page, also padding from the bottom of the page?
-  padding:10px 50px 0 0;
+  padding:10px 80px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
   // Generic text font size
 	font-size: 16px;
@@ -314,15 +314,6 @@ td {
   display: flex;
 }
 
-@media (max-width:786px)
-{
-  .wrapper.shifted {
-    margin-left: 0px;
-    transition: margin 0.3s ease;
-  }
-
-}
-
 #menuToggle {
   position: fixed;
   top: 15px;
@@ -331,6 +322,10 @@ td {
   font-size: 24px;
   padding: 8px 12px;
   cursor: pointer;
+}
+
+#menuToggle.shifted {
+    left: calc(min(80vw, 300px) + 15px);
 }
 
 /* Mobile behavior */
@@ -355,6 +350,7 @@ td {
   
   .wrapper.shifted {
     margin-left: 0px;
+    transition: margin 0.3s ease;
   }
 }
 
@@ -500,7 +496,7 @@ section {
   // Main text section alignment from side box
   float:none;
   padding-right: 0px;
-  padding-left: 100px;
+  padding-left: 80px;
   // Main text section bottom padding
   padding-bottom:50px;
 }
