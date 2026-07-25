@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me!!!
+# **About me!!!**
 
 <table>
   <tr>
@@ -14,9 +14,7 @@ layout: default
     As you hopefully saw before my real name is Alex but you'll also likely see me go by Gooby online in addition to Alex, feel free to refer to me by either name, Gooby is just a silly nickname given to me in high school and my friends in college started jokingly calling me it to better differentiate me from all of the other Alexs that were on campus, and from that the name just stuck.
     <br>
     <br>
-    I have always had an interest and passion for video games, both playing them and making them. Playing and talking about games with others was one of the first ways that I can remember making my first friends at school, and funnily enough is still one of the main ways I make new friends to this day.
-    <br>
-    Ever since I was young I knew that I wanted to do as much as I could with video games, I always had this dream of being able to one day be able to make my own games and share them with others so that they could enjoy them and hopefully be as happy as I was when I would play them.
+    I have always had an interest and passion for video games, both playing them and making them. Playing and talking about games with others was one of the first ways that I can remember making my first friends at school, and funnily enough is still one of the main ways I make new friends to this day. Ever since I was young I knew that I wanted to do as much as I could with video games, I always had this dream of being able to one day be able to make my own games and share them with others so that they could enjoy them and hopefully be as happy as I was when I would play them.
     <br>
     <br>
     So after being introduced to it one day at a friend’s house, at age 10 I made a roblox account and began playing games there, and then around age 12 I learned about Roblox Studio, and now realizing that I now had the ability to try and learn how to make my own games for a platform that I loved playing I immediately jumped in and the rest caused a domino effect getting me to where I am now.
