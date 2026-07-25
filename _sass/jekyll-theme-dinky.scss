@@ -31,7 +31,7 @@ time, mark, audio, video {
 
 body {
   // Padding from the top of the page, horizontal padding, padding from the bottom of the page, also padding from the bottom of the page?
-  padding:10px 80px 0 0;
+  padding:10px 20px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
   // Generic text font size
 	font-size: 16px;
@@ -519,7 +519,13 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header {
+    float:none;
+    position:fixed;
+    width:auto;
+  }
+
+  section, footer {
     float:none;
     position:static;
     width:auto;
