@@ -64,4 +64,15 @@ layout: default
   </tr>
 </table>
 
+## 7/25/26 7:15 pm
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+     Fixed a lot of scaling and positioning issues with the site today, the mobile scaling issues for most of the site, including videos and images have been fixed, but replacing all of the instances of the project entries across all of the project pages manually is gonna be super annoying so I'm gonna start looking at ways to more dynamically add the projects to the project pages to save me a lot of trouble and work in the future. Fixed the issue with the menu toggle not properly showing what action pressing the button was going to do. Fixed the side bar getting squished to an unusable size on mobile.
+    </b>
+    </td>
+  </tr>
+</table>
+
 [Back to home](./)
