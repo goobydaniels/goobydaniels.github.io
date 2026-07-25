@@ -21,25 +21,18 @@ layout: default
   </tr>
 </table>
 
+# **My Experiences and Skills**
+
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
     On May 5th, 2026 I completed my Bachelors of Science in Game Programming and graduated from Champlain College along with a minor in both Computer Science and Mathematics also from Champlain College. During my time at Champlain College, for my 2025 spring semester I was given the amazing opportunity to spend a semester abroad in Montreal. During this time I was given the rare chance to work closely with both my peers from Champlain, professors who were Montreal locals, and both former and current individuals working within the game development industry, from companies such as Ubisoft Montreal, and Riot Games.
     <br>
     <br>
-    If you want to learn a bit more about me, my experiences, and my game development philosophies you can click the "About me" button located in the side bar!
-    <br>
-    <a class="about me button" href="./about-me.html">Go to about me!</a>
-    <br>
-    <br>
-    Also be sure to check out my blog page here for updates on projects that I'm currently working on, or just general updates about me in general. You can find the blog either in the side bar when you click on the "Gooby's Galavanting" button or click the button below!
-    <br>
-    <a class="about me button" href="./blog-page.html">Go to blog!</a>
+    If you want to learn a bit more about me, my personal experiences, and my game development philosophies you can click the "About me" button located in the side bar! Also be sure to check out my blog page here for updates on projects that I'm currently working on, or just general updates about me in general. You can find my blog in the side bar by clicking the "Gooby's Galavanting" button!
     </td>
   </tr>
 </table>
-
-## **My Skills**
 
 <table class="equal-width-table">
   <tr>
