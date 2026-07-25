@@ -7,13 +7,14 @@ layout: default
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
-    <b>Over the course of my game development career I have worked on a number of different projects within both 2D and 3D environments, spanning multiple game engines, programming languages, and topics. Below is an almost comprehensive list of all of the projects I have worked on over the years, along with some plans for future ones as well, so take a look around and hopefully you’ll find a project that catches your eye!
+    <b>
+    Over the course of my near 8+ year game development career and my nearly life long programming career, I have had my hand in a countless amount of different projects that span several different kinds of game engines, programming languages, and topics. From these projects I have hefty experience in both 2D and 3D game development from using game engines such as Unity, Unreal Engine, and Roblox Studio and developed my own a masterclass of understanding of programming languages including but not limited to, C#, C++, and lua from my time spent in said game engines and from my personal projects using them. Below is a comprehensive list of all of the projects I have worked on over the years, organized by starting date. Take a look around and hopefully you’ll find a project that catches your eye!
     </b>
     </td>
   </tr>
 </table>
 
-## Choo Choo Boom Boom, 2026 Spring Semester (In development!)
+## Choo Choo Boom Boom, 2026 Spring Semester
 
 <table>
   <tr>
@@ -27,7 +28,7 @@ layout: default
     Check out the game's Steam page <a href="https://store.steampowered.com/app/4561070/Choo_Choo_Boom_Boom/" target="_blank">here!</a>
     <br>
     </b>
-    <video controls width = "800" height = "600">
+    <video controls class="table-video">
       <source src=".\assets\videos\ChooChooBoomBoom_UpdatedTrailer.mp4" type="video/mp4">
       </video>
     </td>
