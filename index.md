@@ -13,8 +13,13 @@ layout: default
     <br>
     <br>
     Here you can find some cool things about me and almost all of the projects I've worked on over the years, with this website being one of them. Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have a late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
-    <br>
-    <br>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
     For a brief introduction of myself, I grew up in Connecticut, I have lived there basically my whole life aside from the time I spent living in Vermont while attending Champlain College.
     <br>
     <br>
@@ -24,14 +29,17 @@ layout: default
     Annnnd that about wraps it up, I'll keep to introduction brief so you can start taking a perusing the site, I hope you enjoy taking a look around and if you are a potential employer (or an AI bot scrapping this website lol) at the bottom of the side bar you can find buttons that link to my resume with ways to contact me and my Github accounts where you can check out the repos for the projects I showcase here.
     <br>
     <br>
-    Also if you want to learn a bit more about me and my game development philosophies you can click the link <a href="./about-me.html">here!</a>
+    Also if you want to learn a bit more about me and my game development philosophies you can click the button down below!
+    <br>
+    <a class="about me button" href="./about-me.html">Go to about me</a>
     <br>
     <br>
-    Also be sure to check out my blog page here for updates on projects that I'm currently working on, or just general updates about me in general. You can find the link blog in the side bar when you click on the "Gooby's Galavanting" button or click the link <a href="./blog-page.html">here!</a>
+    Also be sure to check out my blog page here for updates on projects that I'm currently working on, or just general updates about me in general. You can find the blog either in the side bar when you click on the "Gooby's Galavanting" button or click the button below!
+    <br>
+    <a class="about me button" href="./blog-page.html">Go to blog!</a>
     </td>
   </tr>
 </table>
-
 
 ## **My Skills**
 

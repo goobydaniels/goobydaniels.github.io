@@ -25,7 +25,7 @@ layout: default
     <br>
     <br>
     You can view and download the github pages repo for this website 
-    <a class="buttons github" href="{{ site.github.repository_url }}" target="_blank">here</a></li> if you’re at all interested in seeing the inter workings of this site (or if you want to make fun of my likely not too great HTML code lol)
+    <a class="buttons github" href="{{ site.github.repository_url }}" target="_blank">here</a> if you’re at all interested in seeing the inter workings of this site (or if you want to make fun of my likely not too great HTML code lol)
     </td>
   </tr>
 </table>
