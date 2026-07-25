@@ -45,7 +45,7 @@ layout: default
     <br>
     Learn more about You're It! and what I did on it <a href="./youreit-page.html">here!</a>
     <br>
-    <video controls width = "800" height = "600">
+    <video controls class="table-video">
       <source src=".\assets\videos\TrailerTest2.mp4" type="video/mp4">
     </video>
     </b>
@@ -63,7 +63,7 @@ layout: default
     <br>
     You can read about my process while making this project and download the final project <a href="./brick-bash-page.html">here!</a> (You will need an emulator to actually play the game! For the project I used Emulicious but any Game Boy or Game Boy Advance emulator should work.)
     <br>
-    <video controls width = "800" height = "600">
+    <video controls class="table-video">
       <source src=".\assets\videos\BrickBash.mp4" type="video/mp4">
     </video>
     </b>
@@ -82,7 +82,7 @@ layout: default
     <br>
     Learn more about this Open GL Portals project and what I did on it <a href="./open-gl-portals-page.html">here!</a>
     <br>
-    <img src="./assets/images/Portals.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/Portals.png" alt="Project Screenshot" class="table-image">
     </b>
     </td>
   </tr>
@@ -99,7 +99,7 @@ layout: default
     <br>
     Learn more about this Deferred Shading project <a href="./open-gl-deferred-shading-page.html">here!</a>
     <br>
-    <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/DeferredShading.png" alt="Project Screenshot" class="table-image">
     </b>
     </td>
   </tr>
@@ -116,7 +116,7 @@ layout: default
     <br>
     Learn more about Domain Expansion and what I did on it <a href="./domain-expansion-page.html">here!</a>
     <br>
-    <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" class="table-image">
     </b>
     </td>
   </tr>
@@ -133,7 +133,7 @@ layout: default
     <br>
     Learn more about The Bee Game and what I did on it <a href="./bee-game-page.html">here!</a>
     <br>
-    <img src="./assets/images/BeeGame.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/BeeGame.png" alt="Project Screenshot" class="table-image">
     <br>
     Watch the trailer <a href="https://drive.google.com/file/d/1xkSdKHElbTG6oTrUlbUfQH_S-DZw5nC7/view?usp=sharing" target="_blank">here!</a>
     <br>
@@ -155,7 +155,7 @@ layout: default
     <br>
     Learn more about Magicformer and what I did on it <a href="./magicformer-page.html">here!</a>
     <br>
-    <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/MagicFormer.png" alt="Project Screenshot" class="table-image">
     <br>
     </b>
     </td>
@@ -173,7 +173,7 @@ layout: default
     <br>
     Learn more about Not Minecraft and what I did on it <a href="./not-minecraft-page.html">here!</a>
     <br>
-    <img src="./assets/images/NotMinecraft.png" alt="Project Screenshot" width="600" height="400">
+    <img src="./assets/images/NotMinecraft.png" alt="Project Screenshot" class="table-image">
     <br>
     Check out the LinkedIn post all about it <a href="https://www.linkedin.com/pulse/procedural-generation-game-ai-final-project-jerry-kaufman-hoxfc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via" target="_blank">here!</a>
     <br>
