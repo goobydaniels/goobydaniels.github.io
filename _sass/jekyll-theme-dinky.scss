@@ -154,15 +154,15 @@ h1,h2, h3 {
 }
 
 h1 {
-	font-size: 36px;
+	font-size: 40px;
 }
 
 h2 {
-	font-size: 30px;
+	font-size: 32px;
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 26px;
 }
 
 h4, h5, h6 {
@@ -238,7 +238,7 @@ hr {
 /* Images */
 
 img {
-  position: relative;
+  position: static;
   margin: 0 auto;
   max-width: 650px;
   padding: 5px;
@@ -287,6 +287,7 @@ table {
   // Padding distance between the bottom and top from other tables
   margin-bottom: 32px;
   text-align: left;
+  font-size: 18px;
  }
 
 th {
@@ -457,7 +458,7 @@ header li {
   // Button width
   /* width:132px; */
   // Button height
-  height:15px;
+  height:16px;
   // Space between buttons
 	margin-bottom: 12px;
   // Button text distance from top of button
@@ -508,7 +509,7 @@ a.github {
 
 a.buttons:hover {
   // Color of text on a git hub button when hovered 
-	color: #8bf18e;
+	color: #ffffff;
 	text-decoration: none;
 }
 
