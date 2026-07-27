@@ -14,7 +14,7 @@ layout: default
   </tr>
 </table>
 
-## Choo Choo Boom Boom, 2026 Spring Semester
+## **Choo Choo Boom Boom, January 2026 - May 2026**
 
 <table>
   <tr>
@@ -35,7 +35,7 @@ layout: default
   </tr>
 </table>
 
-## You're It!, 2025 Fall Semester (In development!)
+## **You're It!, June 2025 - Currently in development!**
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
@@ -53,7 +53,7 @@ layout: default
   </tr>
 </table>
 
-## Brick Bash GameBoy Game, 2025 Fall Semester
+## **Brick Bash GameBoy Game, November 2025 - December 2025**
 <table>
   <tr>
     <td colspan="1" style="text-align: center;">
@@ -71,7 +71,7 @@ layout: default
   </tr>
 </table>
 
-## Portals in Open GL, 2025 Spring Semester
+## **Portals in Open GL, April 2025 - May 2025**
 
 <table>
   <tr>
@@ -88,7 +88,7 @@ layout: default
   </tr>
 </table>
 
-## Open-GL Deferred Shading, 2025 Spring Semester
+## **Open-GL Deferred Shading, March 2025 - April 2025 Spring Semester**
 
 <table>
   <tr>
@@ -105,24 +105,7 @@ layout: default
   </tr>
 </table>
 
-## Domain Expansion, 2025 Global Game Jam
-
-<table>
-  <tr>
-    <td colspan="1" style="text-align: center;">
-    <b>
-    Domain Expansion is CrabTap Studios' submission for the 2025 Global Game Jam. The game is a chaotic tycoon like experience where you try to buy and sell as many DOT COM (.com) domains (urls) as you can before the .com bubble bursts. Based on what topics are currently trending, domains that are related to those trends will make more money. Try to make as much money as possible as you manage buying and selling domains while putting up with annoying popup adds.
-    <br>
-    <br>
-    Learn more about Domain Expansion and what I did on it <a href="./domain-expansion-page.html">here!</a>
-    <br>
-    <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" class="table-image">
-    </b>
-    </td>
-  </tr>
-</table>
-
-## The Bee Game, 2025 Spring Semester
+## **The Bee Game, March 2025 - May 2025**
 
 <table>
   <tr>
@@ -142,7 +125,24 @@ layout: default
   </tr>
 </table>
 
-## MagicFormer, 2025 Spring Semester
+## **Domain Expansion, January 24th, 2025 - January 26th, 2025**
+
+<table>
+  <tr>
+    <td colspan="1" style="text-align: center;">
+    <b>
+    Domain Expansion is CrabTap Studios' submission for the 2025 Global Game Jam. The game is a chaotic tycoon like experience where you try to buy and sell as many DOT COM (.com) domains (urls) as you can before the .com bubble bursts. Based on what topics are currently trending, domains that are related to those trends will make more money. Try to make as much money as possible as you manage buying and selling domains while putting up with annoying popup adds.
+    <br>
+    <br>
+    Learn more about Domain Expansion and what I did on it <a href="./domain-expansion-page.html">here!</a>
+    <br>
+    <img src="./assets/images/DomainExpansion.png" alt="Project Screenshot" class="table-image">
+    </b>
+    </td>
+  </tr>
+</table>
+
+## **MagicFormer, January 2025 - May 2025**
 
 <table>
   <tr>
@@ -162,7 +162,7 @@ layout: default
   </tr>
 </table>
 
-## Not Minecraft, 2024 Fall Semester
+## **Not Minecraft, October 2024 - Decemeber 2024**
 
 <table>
   <tr>
