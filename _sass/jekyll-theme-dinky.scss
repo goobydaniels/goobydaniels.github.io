@@ -382,10 +382,15 @@ header {
   width: 80vw;
   max-width: 300px;
   // Side box height
-  /* height: 725px; */
+  height: auto;
   float:left;
   position:fixed;
+  // Spacing from left of viewport
   left: 0;
+  // Spacing from top of viewport
+  top: 10px;
+  // SPacing from bottom of viewport
+  bottom: 10px;
   // Border thickness and color
 	border: 2px solid #923468;
 	-webkit-border-top-right-radius: 4px;
@@ -401,6 +406,9 @@ header {
   // Side box's distance from the top of the page, unsure, when 1 moves the box up while remaining left aligned
 	margin: 0px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
+  // Prevent horizontal scrolling
+  overflow-x: hidden;
+  // Allow scrolling when needed
   overflow-y: auto;
   transition: transform 0.3s ease;
 }
