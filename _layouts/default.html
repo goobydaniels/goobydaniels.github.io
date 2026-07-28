@@ -22,6 +22,17 @@
           <li>
             <a class="home button" href="https://goobydaniels.github.io/">Home</a>
           </li>
+          <script>
+            document.getElementById("homeButton").addEventListener("click", function (event) {
+            event.preventDefault(); // Stop the default link
+                // 5% chance
+                if (Math.random() < 0.05) {
+                    window.location.href = "https://goobydaniels.github.io/tree.html";
+                } else {
+                    window.location.href = "https://goobydaniels.github.io/";
+                }
+            });
+          </script>
           <li>
             <a class="about me button" href="https://goobydaniels.github.io/about-me.html">About me</a>
           </li>
