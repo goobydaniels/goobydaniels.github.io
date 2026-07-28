@@ -16,7 +16,7 @@ layout: default
     </table>
 </body>
 
-## Arcade Cabinet!
+## **Arcade Cabinet!**
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -29,7 +29,7 @@ layout: default
     </tr>
 </table>
 
-## Merch!
+## **Merch!**
 <table>
     <tr>
         <td colspan="2" style="text-align: center;">
@@ -44,7 +44,7 @@ layout: default
     </tr>
 </table>
 
-## The Team!
+## **The Team!**
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -57,7 +57,7 @@ layout: default
     </tr>
 </table>
 
-## Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems
+## **Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems**
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -74,7 +74,7 @@ layout: default
     </tr>
 </table>
 
-## Game Ui
+## **Game Ui**
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -91,7 +91,7 @@ layout: default
     </tr>
 </table>
 
-## In-Game Settings Systems
+## **In-Game Settings Systems**
 <table>
     <tr>
         <td colspan="1" style="text-align: center;">
@@ -112,7 +112,7 @@ layout: default
     </tr>
 </table>
 
-## Attract Mode System
+## **Attract Mode System**
 
 <table>
     <tr>
