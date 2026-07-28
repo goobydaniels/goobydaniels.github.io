@@ -16,6 +16,47 @@ layout: default
     </table>
 </body>
 
+## Arcade Cabinet!
+<table>
+    <tr>
+        <td colspan="1" style="text-align: center;">
+        <b>
+            From the beginning the team knew that we wanted to make a game that could be played in an arcade cabinet. Making arcade cabinets is a time honored tradition for capstone games at Champlain, with many other teams in the past doing the same thing we sought to do. These arcade cabinets are a big part of the culture at Champlain, they are seen and used by nearly the entire population that comes to Champlain. Either on tours, by visitors, or students just passing by, these cabinets stand to be golden examples of what you can accomplish during your time at Champlain and add to the tight knit game development community that Champlain fosters.
+            <br>
+            <img src="./assets/images/CCBBArcadeCabinet.jpg" alt="Cabinet" class="table-image">
+        </b>
+        </td>
+    </tr>
+</table>
+
+## Merch!
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+        <b>
+            As a way to advertise the game around campus we had a number of different pieces of mech for the game and gave them out for free to other students on campus, these were all made and managed by our team of artists and designers and all came out super awesome!
+        </b>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center;"><img src="./assets/images/CCBBKeyChain.jpg" alt="Cabinet" class="table-image"></td>
+        <td style="text-align:center;"><img src="./assets/images/CCBBStickers.jpg" alt="Cabinet" class="table-image"></td>
+    </tr>
+</table>
+
+## The Team!
+<table>
+    <tr>
+        <td colspan="1" style="text-align: center;">
+        <b>
+            This is the full team that I worked with on this project! None of this would have been possible without everyone putting in everything they had into this project, since the first day I was onboarded I felt like a true member of the team, working with this team was super awesome everyone very clearly had real passion for this project and wanted it to be the absolute best that it could be.
+            <br>
+            <img src="./assets/images/CCBBTeam.jpg" alt="Cabinet" class="table-image">
+        </b>
+        </td>
+    </tr>
+</table>
+
 ## Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems
 <table>
     <tr>
