@@ -17,16 +17,16 @@
     <button id = "menuToggle">☰</button>
     <div class="wrapper">
       <header class = "hidden">
-        <h2 class="header">{{ site.title }} {{ site.description }}</h2>
+        <h2 class="header">{{ site.title }} </h2>
         <ul>
-          <p id="homeButton" class="frutiger-aero-button medium" href="https://goobydaniels.github.io/">Home</a>
-          <p class="frutiger-aero-button medium" href="https://goobydaniels.github.io/about-me.html">About me</a>
-          <p class="frutiger-aero-button medium" href="https://goobydaniels.github.io/blog-page.html">Gooby's Galavanting</a>
-          <p class="frutiger-aero-button medium" href="https://goobydaniels.github.io/projects-page.html">My Projects</a>
+          <a id="homeButton" class="frutiger-aero-button medium" href="https://goobydaniels.github.io/">Home</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/about-me.html">About me</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/blog-page.html">Gooby's Galavanting</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/projects-page.html">My Projects</a>
         </ul>
           <script>
             document.getElementById("homeButton").addEventListener("click", function (event) {
-            event.preventDefault(); // Stop the default link
+            event.preventDefault(); // Stop the default link {{ site.description }}
                 let funValue = Math.random();
 
                 // 5% chance
@@ -40,9 +40,9 @@
 
         <h3 class="header">Spotlight Projects:</h3>
         <ul>
-          <p class="header"><a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/youreit-page.html">You're It!</a>
-          <p class="header"><a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/CCBB-page.html">Choo Choo Boom Boom</a>
-          <p class="header"><a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/brick-bash-page.html">Brick Bash</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/youreit-page.html">You're It!</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/CCBB-page.html">Choo Choo Boom Boom</a>
+          <a class="frutiger-aero-button medium" href="https://goobydaniels.github.io/brick-bash-page.html">Brick Bash</a>
         </ul>
 
         <ul>
@@ -59,9 +59,9 @@
         {% if site.github.is_user_page %}
         <h3 class="header">Contact Me:</h3>
           <ul>
-            <p class="frutiger-aero-button medium" href="https://docs.google.com/document/d/1OGVQBU3Ad1N05U_OcGA7jXi9ySjaElC8/edit?usp=sharing&ouid=108095993667865030685&rtpof=true&sd=true" target="_blank">My Resume</a>
-            <p class="frutiger-aero-button medium" href="{{ site.github.owner_url }}" target="_blank">Personal GitHub</a>
-            <p class="frutiger-aero-button medium" href="https://github.com/ABianca12" target="_blank">School GitHub</a>
+            <a class="frutiger-aero-button medium" href="https://docs.google.com/document/d/1OGVQBU3Ad1N05U_OcGA7jXi9ySjaElC8/edit?usp=sharing&ouid=108095993667865030685&rtpof=true&sd=true" target="_blank">My Resume</a>
+            <a class="frutiger-aero-button medium" href="{{ site.github.owner_url }}" target="_blank">Personal GitHub</a>
+            <a class="frutiger-aero-button medium" href="https://github.com/ABianca12" target="_blank">School GitHub</a>
           </ul>
         {% endif %}
 
