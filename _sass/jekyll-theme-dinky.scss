@@ -31,7 +31,7 @@ time, mark, audio, video {
 body {
   // Padding from the top of the page, horizontal padding, padding from the bottom of the page, also padding from the bottom of the page?
   padding:10px 20px 0 0;
-  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:"Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
   // Generic text font size
 	font-size: 16px;
   // Generic text color
@@ -244,11 +244,11 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, dl {
   // (Effects all class p, ul, ol, table, and dl if 0, listed classes become left aligned and space between new lines becomes uniform, if missing becomes centered with uniform spacing, if 1 becomes left aligned with uniform spacing), space from listed classes new lines
-  margin:0 0 22px;
+  margin:0 0 2px;
 }
 
 h1, h2, h3 {
-	font-family: Arvo, Monaco, serif;
+	font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
   // Bottom of header text's distance from line
   line-height:1.3;
 	font-weight: normal;
