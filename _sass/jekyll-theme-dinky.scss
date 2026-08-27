@@ -75,21 +75,7 @@ body {
     transparent
   );
 
-  .frutiger-aero-button .button-icon {
-  width: 1.4em;
-  height: 1.4em;
-  object-fit: contain;
-  flex-shrink: 0;
-  position: relative;
-  z-index: 1;
-}
-
-.frutiger-aero-button .button-text {
-  position: relative;
-  z-index: 1;
-}
-
-  /* Base Styling */
+    /* Base Styling */
   background-color: var(--bg);
   background:
     var(--bottom-glow),
@@ -115,6 +101,27 @@ body {
   /* Prevent text selection */
   user-select: none;
   -webkit-user-select: none;
+}
+
+.frutiger-aero-button .button-icon {
+  width: 32px;
+  height: 32px;
+
+  /* Prevent the image from stretching outside its box */
+  max-width: 32px;
+  max-height: 32px;
+  object-fit: contain;
+
+  flex: 0 0 32px;
+  display: block;
+
+  position: relative;
+  z-index: 2;
+}
+
+.frutiger-aero-button .button-text {
+  position: relative;
+  z-index: 2;
 }
 
 /* Diagonal Glass Shine Sweep — the classic Web 2.0 glare streak */
