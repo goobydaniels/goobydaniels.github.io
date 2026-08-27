@@ -166,21 +166,21 @@ body {
   font-size: 1.125rem;
 }
 
-// .frutiger-aero-button .button-icon {
-//   width: 32px;
-//   height: 32px;
+.frutiger-aero-button .button-icon {
+  width: 32px;
+  height: 32px;
 
-//   /* Prevent the image from stretching outside its box */
-//   max-width: 32px;
-//   max-height: 32px;
-//   object-fit: contain;
+  /* Prevent the image from stretching outside its box */
+  max-width: 32px;
+  max-height: 32px;
+  object-fit: contain;
 
-//   flex: 0 0 32px;
-//   display: block;
+  flex: 0 0 32px;
+  display: block;
 
-//   position: relative;
-//   z-index: 2;
-// }
+  position: relative;
+  z-index: 2;
+}
 
 // .frutiger-aero-button .button-text {
 //   position: relative;
@@ -594,13 +594,13 @@ header li {
   // Button text padding from top, button text padding from right side, button text padding from buttom, button text padding from left side
 	padding: 6px 6px 6px 7px;
 
-	background: #AF0011;
-	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: linear-gradient(to top, #533c31 0%,#d19771 100%);
+	// background: #AF0011;
+	// background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
+  // background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+  // background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
+  // background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
+  // background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
+  // background: linear-gradient(to top, #533c31 0%,#d19771 100%);
 
 	// Button roundness
   border-radius:8px;
