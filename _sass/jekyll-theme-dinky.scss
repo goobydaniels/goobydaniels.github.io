@@ -75,6 +75,20 @@ body {
     transparent
   );
 
+  .frutiger-aero-button .button-icon {
+  width: 1.4em;
+  height: 1.4em;
+  object-fit: contain;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.frutiger-aero-button .button-text {
+  position: relative;
+  z-index: 1;
+}
+
   /* Base Styling */
   background-color: var(--bg);
   background:
