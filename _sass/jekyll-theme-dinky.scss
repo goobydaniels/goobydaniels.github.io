@@ -166,21 +166,21 @@ body {
   font-size: 1.125rem;
 }
 
-.frutiger-aero-button .button-icon {
-  width: 32px;
-  height: 32px;
+// .frutiger-aero-button .button-icon {
+//   width: 32px;
+//   height: 32px;
 
-  /* Prevent the image from stretching outside its box */
-  max-width: 32px;
-  max-height: 32px;
-  object-fit: contain;
+//   /* Prevent the image from stretching outside its box */
+//   max-width: 32px;
+//   max-height: 32px;
+//   object-fit: contain;
 
-  flex: 0 0 32px;
-  display: block;
+//   flex: 0 0 32px;
+//   display: block;
 
-  position: relative;
-  z-index: 2;
-}
+//   position: relative;
+//   z-index: 2;
+// }
 
 // .frutiger-aero-button .button-text {
 //   position: relative;
@@ -581,36 +581,36 @@ header ul {
   padding:0;
 }
 
-header li {
-	list-style-type: none;
-  // Button width
-  /* width:132px; */
-  // Button height
-  height:16px;
-  // Space between buttons
-	margin-bottom: 12px;
-  // Button text distance from top of button
-	line-height: 1em;
-  // Button text padding from top, button text padding from right side, button text padding from buttom, button text padding from left side
-	padding: 6px 6px 6px 7px;
+// header li {
+// 	list-style-type: none;
+//   // Button width
+//   /* width:132px; */
+//   // Button height
+//   height:16px;
+//   // Space between buttons
+// 	margin-bottom: 12px;
+//   // Button text distance from top of button
+// 	line-height: 1em;
+//   // Button text padding from top, button text padding from right side, button text padding from buttom, button text padding from left side
+// 	padding: 6px 6px 6px 7px;
 
-	// background: #AF0011;
-	// background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
-  // background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  // background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
-  // background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  // background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
-  // background: linear-gradient(to top, #533c31 0%,#d19771 100%);
+// 	// background: #AF0011;
+// 	// background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
+//   // background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+//   // background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
+//   // background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
+//   // background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
+//   // background: linear-gradient(to top, #533c31 0%,#d19771 100%);
 
-	// Button roundness
-  border-radius:8px;
-  // Button border width and color
-  border:1px solid #0D0D0D;
+// 	// Button roundness
+//   border-radius:8px;
+//   // Button border width and color
+//   border:1px solid #0D0D0D;
 
-	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-	box-shadow: inset 0px 3px 3px 0 #959794;
+// 	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
+// 	box-shadow: inset 0px 3px 3px 0 #959794;
 
-}
+// }
 
 header li:hover {
 	background: #C3001D;
