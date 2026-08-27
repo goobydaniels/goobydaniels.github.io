@@ -472,7 +472,7 @@ td {
 }
 
 #menuToggle.shifted {
-    left: calc(min(80vw, 300px) + 15px);
+    left: calc(min(80vw, 300px) + 25px);
 }
 
 /* Mobile behavior */
@@ -581,9 +581,9 @@ header ul {
   padding:0;
 }
 
-// li {
-//   padding: 2px, 0px, 0px, 2px;
-// }
+li {
+  padding: 10px 0px 0px 10px;
+}
 
 // header li {
 // 	list-style-type: none;
