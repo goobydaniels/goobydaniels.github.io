@@ -5,20 +5,21 @@ layout: default
 <table class="equal-width-table">
   <tr>
     <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
-      <strong>Welcome!!!</strong>
+      <h1>Welcome!!!</h1>
     </th>
   </tr>
   <tr>
-    Hiya! I'm Alex Bianca and welcome to my portfolio website :)
-    <br>
-    <br>
-    Here you can find some cool things about me while taking a look at the projects I've worked on over the years, with this website being one of them. To see a complete list of all of my projects you can either click the "My Projects" button located in the side bar (you make it appear by clicking the button with three lines on it), or click one of the links in the tables at the bottom of this page to see programming language or game engine specific projects!
-    <br>
-    <br>
-    Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have a late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
-    <br>
-    <br>
-    But other than that, I hope you enjoy taking a look around and if you're looking to contact me you can find links to my resume and personal github accounts at the bottom of the side bar.
+    <td colspan="1" style="text-align: center;">
+      Hiya! I'm Alex Bianca and welcome to my portfolio website :)
+      <br>
+      <br>
+      Here you can find some cool things about me while taking a look at the projects I've worked on over the years, with this website being one of them. To see a complete list of all of my projects you can either click the "My Projects" button located in the side bar (you make it appear by clicking the button with three lines on it), or click one of the links in the tables at the bottom of this page to see programming language or game engine specific projects!
+      <br>
+      <br>
+      Also, if you couldn't already tell this is my first time using css and html so bare with me as this site is still unfinished in some parts but I've always wanted to learn how to make my own website so please excuse some weirdness the best you can lol. Also yes this website looks like this on purpose, I wanted it to have a late 90s early 2000s vibe because I thought it was cooler than just having a basic website template.
+      <br>
+      <br>
+      But other than that, I hope you enjoy taking a look around and if you're looking to contact me you can find links to my resume and personal github accounts at the bottom of the side bar.
     </td>
   </tr>
 </table>
@@ -26,7 +27,7 @@ layout: default
 <table class="equal-width-table">
   <tr>
     <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
-      <b>My Experiences and Skills</b>
+      <h2>My Experiences and Skills</h2>
     </th>
   </tr>
   <tr>
@@ -45,7 +46,7 @@ layout: default
 <table class="equal-width-table">
   <tr>
     <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
-      Programming Language Proficiencies (Click a link to see projects using that language!)
+      <h3>Programming Language Proficiencies (Click a link to see projects using that language!)</h3>
     </th>
   </tr>
   <tr>
@@ -72,7 +73,9 @@ layout: default
 
 <table class="equal-width-table">
   <tr>
-    <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">Game Development Proficiencies (Click a link to see projects using that engine!)</th>
+    <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
+      <h3>Game Development Proficiencies (Click a link to see projects using that engine!)</h3>
+    </th>
   </tr>
   <tr>
     <td style="text-align:center;"><a href="./unreal-projects-page.html">Unreal Engine</a></td>

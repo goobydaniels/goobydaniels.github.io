@@ -322,16 +322,17 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  --hue: 300;
+  --sat: 0.3;
+  --glow-intensity: 0.7;
+  --fg: oklch(15% calc(var(--sat) * 0.5) var(--hue));
+
   // Color of header text
-  color:#d19771;
+  color: var(--fg);
   // Header's distance from the top of the screen, space between normal text and a header's break line (as it increases the distance shrinks), space between normal text and a header's break line (as it increases the distance increases)
-  margin:20px 0 10px;
+  margin:20px 0 20px;
   // x offset (-20, 20 range), y offset (-20, 20 range), blur (max of 20)
-  text-shadow:
-    -2px -2px 20px #959794,
-    0px 0px 0 #959794,
-    0px  2px 0 #959794,
-    2px  2px 0 #959794;
+  text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
 }
 
 p, ul, ol, table, dl {
@@ -348,12 +349,12 @@ h1, h2, h3 {
 
 h1,h2, h3 {
 	display: block;
-	border-bottom: 1px solid #ccc;
-	padding-bottom: 5px;
+	// border-bottom: 1px solid #ccc;
+	// padding-bottom: 5px;
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 50px;
 }
 
 h2 {

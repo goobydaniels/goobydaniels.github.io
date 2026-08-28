@@ -2,9 +2,12 @@
 layout: default
 ---
 
-# **Welcome to the Projects Page!!!**
-
-<table>
+<table class="equal-width-table">
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+      <strong>Welcome to the Projects Page!!!</strong>
+    </th>
+  </tr>
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
