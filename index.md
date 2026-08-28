@@ -38,11 +38,13 @@ layout: default
 </table>
 
 <table class="equal-width-table">
-  <tr>
-    <th colspan="3" style="text-align: center;">
-      Programming Language Proficiencies (Click a link to see projects using that language!)
-    </th>
-  </tr>
+  <thead>
+    <tr>
+      <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
+        Programming Language Proficiencies (Click a link to see projects using that language!)
+      </th>
+    </tr>
+  </thead>
   <tr>
     <td style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
     <td style="text-align:center;"><a href="./assembly-projects-page.html">x86 Assembly</a></td>

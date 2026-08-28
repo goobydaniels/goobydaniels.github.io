@@ -394,12 +394,66 @@ table {
 
 table {
   // Table border color
-  border: 2px solid #334f8f;
+  border: 2px solid #551591d1;
   // Padding distance between the bottom and top from other tables
   margin-bottom: 32px;
   text-align: left;
   font-size: 18px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 12px;
+  overflow: hidden;
  }
+
+
+/* Frutiger Aero Table Header */
+.frutiger-aero-header {
+  --hue: 280;
+  --sat: 0.2;
+  --glow-intensity: 0.7;
+
+  /* Colors */
+  --fg: oklch(15% calc(var(--sat) * 0.5) var(--hue));
+  --bg: oklch(75% var(--sat) var(--hue) / 0.8);
+  --bg-dark: oklch(45% var(--sat) var(--hue) / 0.75);
+
+  /* Continuous Aero background */
+  background:
+    radial-gradient(
+      farthest-corner at bottom center,
+      rgba(255, 255, 255, var(--glow-intensity)),
+      transparent
+    ),
+    linear-gradient(to bottom, var(--bg-dark), var(--bg));
+
+  color: var(--fg);
+  font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
+  font-weight: 700;
+  text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
+
+  padding: 12px 16px;
+  text-align: center;
+
+  /* Shared borders */
+  border-top: 1px solid var(--bg);
+  border-bottom: 1px solid var(--bg);
+  border-left: none;
+  border-right: none;
+}
+
+/* Add only subtle separators between columns */
+.frutiger-aero-header + .frutiger-aero-header {
+  border-left: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Round only the outside corners */
+thead tr:first-child .frutiger-aero-header:first-child {
+  border-radius: 16px 0 0 0;
+}
+
+thead tr:first-child .frutiger-aero-header:last-child {
+  border-radius: 0 16px 0 0;
+}
 
 th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
