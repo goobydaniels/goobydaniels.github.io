@@ -6,6 +6,11 @@ layout: default
 
 <body id="youre-it-page">
     <table>
+        <tr>
+            <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h1>You're It!</h1>
+            </th>
+        </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -20,9 +25,12 @@ layout: default
     </table>
 </body>
 
-## **Character Movement**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h2>Character Movement</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -32,9 +40,12 @@ layout: default
     </tr>
 </table>
 
-### **Diving**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Diving</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -50,9 +61,12 @@ layout: default
     </tr>
 </table>
 
-### **Sliding**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Sliding</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -64,9 +78,12 @@ layout: default
     </tr>
 </table>
 
-### **Crouching**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Crouching</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -78,9 +95,12 @@ layout: default
     </tr>
 </table>
 
-### **Stun**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Stun</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -96,9 +116,12 @@ layout: default
     </tr>
 </table>
 
-### **Slipstream**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Slipstream</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -110,9 +133,20 @@ layout: default
     </tr>
 </table>
 
-## **Local Multiplayer**
+<table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h2>Multiplayer</h2>
+        </th>
+    </tr>
+</table>
 
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Local Multiplayer</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -124,9 +158,12 @@ layout: default
     </tr>
 </table>
 
-## **Networked Multiplayer**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h3>Online Multiplayer</h3>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -142,9 +179,12 @@ layout: default
     </tr>
 </table>
 
-## **Custom Match Settings**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h2>Custom Match Settings</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -160,9 +200,12 @@ layout: default
     </tr>
 </table>
 
-## **Tagging**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h2>Tagging</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -174,9 +217,12 @@ layout: default
     </tr>
 </table>
 
-## **UI/Menus**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+        <h2>UI</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>

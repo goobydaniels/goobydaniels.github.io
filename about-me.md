@@ -2,9 +2,13 @@
 layout: default
 ---
 
-# **About me!!!**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+      <h1>About me!!!</h1>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: Left;">
     <b>

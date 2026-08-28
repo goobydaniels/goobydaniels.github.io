@@ -5,19 +5,28 @@ layout: default
 # <img src="./assets/images/ccbb_logo_highlight.png" alt="Project logo" width="640" height="175">
 
 <body id="CCBB-page">
-    <table>
+<table>
     <tr>
-        <td colspan="1" style="text-align: center;">
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h1>Choo Choo Boom Boom</h1>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
         <b>
             Choo Choo Boom Boom was the project I worked on for the second semester of my senior year. I was onboarded onto the game's already existing team along with several others at the beginning of the semester. I was recruited to help out the other two programmers that were already a part of the team polish and further the game’s already existing systems while also being tasked with leading the charge on creating new systems of my own both independently and alone side the rest of the team. These systems and some of the highlight experiences of this project is what I’ll be discussing here.
         </b>
         </td>
     </tr>
-    </table>
+</table>
 </body>
 
-## **Arcade Cabinet!**
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>Arcade Cabinet!</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -31,6 +40,11 @@ layout: default
 
 ## **Merch!**
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>Merch!</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
         <b>
@@ -47,6 +61,11 @@ layout: default
 ## **The Team!**
 <table>
     <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>The Team!</h2>
+        </th>
+    </tr>
+    <tr>
         <td colspan="1" style="text-align: center;">
         <b>
             This is the full team that I worked with on this project! None of this would have been possible without everyone putting in everything they had into this project, since the first day I was onboarded I felt like a true member of the team, working with this team was super awesome everyone very clearly had real passion for this project and wanted it to be the absolute best that it could be.
@@ -57,8 +76,12 @@ layout: default
     </tr>
 </table>
 
-## **Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems**
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>Scoring System, Rotating Counter Ui, Leaderboard Data Base Systems</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -74,8 +97,12 @@ layout: default
     </tr>
 </table>
 
-## **Game Ui**
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>Game Ui</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -91,8 +118,12 @@ layout: default
     </tr>
 </table>
 
-## **In-Game Settings Systems**
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>In-Game Settings Systems</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
@@ -112,9 +143,12 @@ layout: default
     </tr>
 </table>
 
-## **Attract Mode System**
-
 <table>
+    <tr>
+        <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+            <h2>Attract Mode System</h2>
+        </th>
+    </tr>
     <tr>
         <td colspan="1" style="text-align: center;">
         <b>
