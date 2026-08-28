@@ -10,7 +10,7 @@ layout: default
   </tr>
   <tr>
     <td colspan="1" style="text-align: center;">
-      Hiya! I'm Alex Bianca and welcome to my portfolio website :)
+      Hiya! I'm Alex (or Gooby which you'll also see me go by) and welcome to my portfolio website :)
       <br>
       <br>
       Here you can find some cool things about me while taking a look at the projects I've worked on over the years, with this website being one of them. To see a complete list of all of my projects you can either click the "My Projects" button located in the side bar (you make it appear by clicking the button with three lines on it), or click one of the links in the tables at the bottom of this page to see programming language or game engine specific projects!

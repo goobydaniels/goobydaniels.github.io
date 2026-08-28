@@ -5,9 +5,10 @@ layout: default
 <table class="equal-width-table">
   <tr>
     <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
-      <strong>Welcome to the Projects Page!!!</strong>
+      <h1>Welcome to the Projects Page!!!</h1>
     </th>
   </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -17,11 +18,15 @@ layout: default
   </tr>
 </table>
 
-## **Choo Choo Boom Boom, January 2026 - May 2026**
-
 <table>
   <tr>
-    <td colspan="1" style="text-align: center;">
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Choo Choo Boom Boom, January 2026 - May 2026</h2>
+    </th>
+  </tr>
+
+  <tr>
+    <td style="text-align: center;">
     <b>
     Fight through two thrilling phases of an epic boss fight as the gunner of a repurposed air train, built to take on an alien entity known only as The Hand. Blast through 10 unique encounters with your trusty set of cannons, and rack up a high score to compete with your friends!
     <br>
@@ -38,10 +43,15 @@ layout: default
   </tr>
 </table>
 
-## **You're It!, June 2025 - Currently in development!**
 <table>
   <tr>
-    <td colspan="1" style="text-align: center;">
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>You're It!, June 2025 - Currently in development!</h2>
+    </th>
+  </tr>
+
+  <tr>
+    <td style="text-align: center;">
     <b>
     You're It! is a 4 player local and online multiplayer game that seeks to reinvigorate that feeling you would be chasing on the playground during recess while playing tag with your classmates. Chase your friends around the playground and tag them by jumping, sliding, diving, and pushing your way to victory in one of three action packed tagging game modes, all fully customizable to your hearts desire! Be warned, for every second you're it, your timer will go down, run out of time, and you're out! Be the last one or last team left standing to win!
     <br>
@@ -56,8 +66,13 @@ layout: default
   </tr>
 </table>
 
-## **Brick Bash GameBoy Game, November 2025 - December 2025**
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Brick Bash GameBoy Game, November 2025 - December 2025</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -74,9 +89,13 @@ layout: default
   </tr>
 </table>
 
-## **Portals in Open GL, April 2025 - May 2025**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Portals in Open GL, April 2025 - May 2025</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -91,9 +110,13 @@ layout: default
   </tr>
 </table>
 
-## **Open-GL Deferred Shading, March 2025 - April 2025 Spring Semester**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Open-GL Deferred Shading, March 2025 - April 2025 Spring Semester</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -108,9 +131,13 @@ layout: default
   </tr>
 </table>
 
-## **The Bee Game, March 2025 - May 2025**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>The Bee Game, March 2025 - May 2025</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -128,9 +155,13 @@ layout: default
   </tr>
 </table>
 
-## **Domain Expansion, January 24th, 2025 - January 26th, 2025**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Domain Expansion, January 24th, 2025 - January 26th, 2025</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -145,9 +176,13 @@ layout: default
   </tr>
 </table>
 
-## **MagicFormer, January 2025 - May 2025**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>MagicFormer, January 2025 - May 2025</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
@@ -165,9 +200,13 @@ layout: default
   </tr>
 </table>
 
-## **Not Minecraft, October 2024 - Decemeber 2024**
-
 <table>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: left;">
+      <h2>Not Minecraft, October 2024 - Decemeber 2024</h2>
+    </th>
+  </tr>
+
   <tr>
     <td colspan="1" style="text-align: center;">
     <b>
