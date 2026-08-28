@@ -45,11 +45,13 @@ body {
 	//background-color: #FBFAF7;
   background-image: url(liam_28.jpg);
   // should the image repeat to fill or not
-  background-repeat: fill;
+  background-repeat: no-repeat;
   // Should image cover the whole screen
-  background-size: auto;
+  background-size: cover;
   // Should image scroll with page or not
   background-attachment: fixed;
+  // Background image position
+  background-position: center center;
   // Dont know
 	margin: 0;
   // Spacing between new lines
