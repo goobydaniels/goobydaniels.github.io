@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6 {
   // Color of header text
   color: var(--fg);
   // Header's distance from the top of the screen, space between normal text and a header's break line (as it increases the distance shrinks), space between normal text and a header's break line (as it increases the distance increases)
-  margin:20px 0 20px;
+  margin:10px 0 10px;
   // x offset (-20, 20 range), y offset (-20, 20 range), blur (max of 20)
   text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
 }
