@@ -2,11 +2,13 @@
 layout: default
 ---
 
-# **Welcome!!!**
-
-<table>
+<table class="equal-width-table">
   <tr>
-    <td colspan="1" style="text-align: center;">
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+      <strong>Welcome!!!</strong>
+    </th>
+  </tr>
+  <tr>
     Hiya! I'm Alex Bianca and welcome to my portfolio website :)
     <br>
     <br>
@@ -21,9 +23,12 @@ layout: default
   </tr>
 </table>
 
-## **My Experiences and Skills**
-
-<table>
+<table class="equal-width-table">
+  <tr>
+    <th class = "frutiger-aero-header" colspan="1" style="text-align: center;">
+      <b>My Experiences and Skills</b>
+    </th>
+  </tr>
   <tr>
     <td colspan="1" style="text-align: center;">
     On May 5th, 2026 I completed my Bachelors of Science in Game Programming and graduated from Champlain College along with a minor in both Computer Science and Mathematics also from Champlain College. During my time at Champlain College, for my 2025 spring semester I was given the amazing opportunity to spend a semester abroad in Montreal. During this time I was given the rare chance to work closely with both my peers from Champlain, professors who were Montreal locals, and both former and current individuals working within the game development industry, from companies such as Ubisoft Montreal, and Riot Games.
@@ -38,13 +43,11 @@ layout: default
 </table>
 
 <table class="equal-width-table">
-  <thead>
-    <tr>
-      <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
-        Programming Language Proficiencies (Click a link to see projects using that language!)
-      </th>
-    </tr>
-  </thead>
+  <tr>
+    <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
+      Programming Language Proficiencies (Click a link to see projects using that language!)
+    </th>
+  </tr>
   <tr>
     <td style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
     <td style="text-align:center;"><a href="./assembly-projects-page.html">x86 Assembly</a></td>
