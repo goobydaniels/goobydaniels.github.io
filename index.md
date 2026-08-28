@@ -69,7 +69,7 @@ layout: default
 
 <table class="equal-width-table">
   <tr>
-    <th colspan="3" style="text-align: center;">Game Development Proficiencies (Click a link to see projects using that engine!)</th>
+    <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">Game Development Proficiencies (Click a link to see projects using that engine!)</th>
   </tr>
   <tr>
     <td style="text-align:center;"><a href="./unreal-projects-page.html">Unreal Engine</a></td>

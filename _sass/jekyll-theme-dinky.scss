@@ -30,7 +30,7 @@ time, mark, audio, video {
 
 body {
   // Padding from the top of the page, horizontal padding, padding from the bottom of the page, also padding from the bottom of the page?
-  padding:10px 20px 0 0;
+  padding:10px 0px 0 0;
   font-family:"Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
   // Generic text font size
 	font-size: 16px;
@@ -732,7 +732,7 @@ section {
   max-width: 100%;
   // Main text section alignment from side box
   float:none;
-  padding-right: 0px;
+  padding-right: 80px;
   padding-left: 80px;
   // Main text section bottom padding
   padding-bottom:50px;
