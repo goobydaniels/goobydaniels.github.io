@@ -408,8 +408,8 @@ table {
 
 /* Frutiger Aero Table Header */
 .frutiger-aero-header {
-  --hue: 280;
-  --sat: 0.2;
+  --hue: 300;
+  --sat: 0.3
   --glow-intensity: 0.7;
 
   /* Colors */
@@ -455,6 +455,38 @@ thead tr:first-child .frutiger-aero-header:last-child {
   border-radius: 0 16px 0 0;
 }
 
+.frutiger-aero-table-element {
+  --hue: 280;
+  --sat: 0.2
+  --glow-intensity: 0.7;
+
+  /* Colors */
+  --fg: oklch(15% calc(var(--sat) * 0.5) var(--hue));
+  --bg: oklch(75% var(--sat) var(--hue) / 0.8);
+  --bg-dark: oklch(45% var(--sat) var(--hue) / 0.75);
+
+  background:
+    radial-gradient(
+      farthest-corner at bottom center,
+      rgba(255, 255, 255, calc(var(--glow-intensity) * 0.45)),
+      transparent
+    ),
+    linear-gradient(
+      to bottom,
+      oklch(65% calc(var(--sat) * 0.7) var(--hue) / 0.7),
+      oklch(50% calc(var(--sat) * 0.7) var(--hue) / 0.6)
+    );
+
+  color: var(--fg);
+  font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
+
+  padding: 12px 16px;
+  text-align: center;
+
+  /* Small borders separate each gradient cleanly */
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
 th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
 	font-size: 18px;
@@ -473,6 +505,8 @@ td {
   // Table data section background color
 	background: #05040a;
  }
+
+
 
  .table-video {
   display: block;
