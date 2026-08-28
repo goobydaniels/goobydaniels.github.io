@@ -170,6 +170,94 @@ body {
   font-size: 1.125rem;
 }
 
+/* Frutiger Aero Header */
+.frutiger-aero-header {
+  /* OKLCH Color System */
+  --hue: 280;
+  --sat: 0.2;
+  --glow-intensity: 0.7;
+
+  /* Color Variables */
+  --fg: oklch(15% calc(var(--sat) * 0.5) var(--hue));
+  --bg: oklch(75% var(--sat) var(--hue) / 0.8);
+  --bg-dark: oklch(45% var(--sat) var(--hue) / 0.75);
+
+  --bottom-glow: radial-gradient(
+    farthest-corner at bottom center,
+    rgba(255, 255, 255, var(--glow-intensity)),
+    transparent
+  );
+
+  /* Background */
+  background:
+    var(--bottom-glow),
+    linear-gradient(to bottom, var(--bg-dark), var(--bg));
+
+  border: 1px solid var(--bg);
+  border-radius: 9999px;
+
+  /* Shadows */
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+
+  /* Typography */
+  color: var(--fg);
+  font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
+  font-weight: 700;
+  text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
+
+  /* Layout */
+  position: relative;
+  padding: 0.75em 2em;
+  margin: 0;
+
+  /* This prevents the shine layers from overflowing */
+  overflow: hidden;
+}
+
+/* Diagonal Glass Shine */
+.frutiger-aero-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: linear-gradient(
+    120deg,
+    transparent 30%,
+    rgba(255, 255, 255, 0.35) 45%,
+    rgba(255, 255, 255, 0.05) 55%,
+    transparent 70%
+  );
+
+  border-radius: inherit;
+  pointer-events: none;
+}
+
+/* Top Glass Highlight */
+.frutiger-aero-header::after {
+  content: "";
+  position: absolute;
+
+  top: 4%;
+  left: 0.75em;
+  width: calc(100% - 1.5em);
+  height: 40%;
+
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.1)
+  );
+
+  border-radius: inherit;
+  pointer-events: none;
+}
+
+/* Keep the text above the glass effects */
+.frutiger-aero-header > * {
+  position: relative;
+  z-index: 1;
+}
+
 #CCBB-page {
   background-image: url(CCBBBackground.png);
   background-repeat: repeat;
@@ -404,56 +492,6 @@ table {
   border-radius: 12px;
   overflow: hidden;
  }
-
-
-/* Frutiger Aero Table Header */
-.frutiger-aero-header {
-  --hue: 300;
-  --sat: 0.3
-  --glow-intensity: 0.7;
-
-  /* Colors */
-  --fg: oklch(15% calc(var(--sat) * 0.5) var(--hue));
-  --bg: oklch(75% var(--sat) var(--hue) / 0.8);
-  --bg-dark: oklch(45% var(--sat) var(--hue) / 0.75);
-
-  /* Continuous Aero background */
-  background:
-    radial-gradient(
-      farthest-corner at bottom center,
-      rgba(255, 255, 255, var(--glow-intensity)),
-      transparent
-    ),
-    linear-gradient(to bottom, var(--bg-dark), var(--bg));
-
-  color: var(--fg);
-  font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
-  font-weight: 700;
-  text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
-
-  padding: 12px 16px;
-  text-align: center;
-
-  /* Shared borders */
-  border-top: 1px solid var(--bg);
-  border-bottom: 1px solid var(--bg);
-  border-left: none;
-  border-right: none;
-}
-
-/* Add only subtle separators between columns */
-.frutiger-aero-header + .frutiger-aero-header {
-  border-left: 1px solid rgba(255, 255, 255, 0.15);
-}
-
-/* Round only the outside corners */
-thead tr:first-child .frutiger-aero-header:first-child {
-  border-radius: 16px 0 0 0;
-}
-
-thead tr:first-child .frutiger-aero-header:last-child {
-  border-radius: 0 16px 0 0;
-}
 
 th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
