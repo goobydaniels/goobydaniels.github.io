@@ -465,26 +465,36 @@ thead tr:first-child .frutiger-aero-header:last-child {
   --bg: oklch(75% var(--sat) var(--hue) / 0.8);
   --bg-dark: oklch(45% var(--sat) var(--hue) / 0.75);
 
+  /* Continuous Aero background */
   background:
     radial-gradient(
       farthest-corner at bottom center,
-      rgba(255, 255, 255, calc(var(--glow-intensity) * 0.45)),
+      rgba(255, 255, 255, var(--glow-intensity)),
       transparent
     ),
-    linear-gradient(
-      to bottom,
-      oklch(65% calc(var(--sat) * 0.7) var(--hue) / 0.7),
-      oklch(50% calc(var(--sat) * 0.7) var(--hue) / 0.6)
-    );
+    linear-gradient(to bottom, var(--bg-dark), var(--bg));
 
   color: var(--fg);
   font-family: "Segoe UI", Tahoma, "Segoe UI Web", system-ui, sans-serif;
+  font-weight: 700;
+  text-shadow: 0 2px 0.5em rgba(0, 0, 0, 0.2);
 
   padding: 12px 16px;
   text-align: center;
 
-  /* Small borders separate each gradient cleanly */
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  /* Shared borders */
+  border-top: 1px solid var(--bg);
+  border-bottom: 1px solid var(--bg);
+  border-left: none;
+  border-right: none;
+}
+
+tbody td:first-child .frutiger-aero-table-element:first-child {
+  border-radius: 16px 0 0 0;
+}
+
+tbody td:first-child .frutiger-aero-table-element:last-child {
+  border-radius: 0 16px 0 0;
 }
 
 th {

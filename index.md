@@ -45,8 +45,9 @@ layout: default
       </th>
     </tr>
   </thead>
+  <tbody>
   <tr>
-    <td class = ".frutiger-aero-table-element" style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
+    <td class = "frutiger-aero-table-element" style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
     <td style="text-align:center;"><a href="./assembly-projects-page.html">x86 Assembly</a></td>
     <td style="text-align:center;"><a href="./powershell-bash-projects-page.html">PowerShell</a></td>
   </tr>
@@ -65,6 +66,7 @@ layout: default
     <td style="text-align:center;"><a href="./css-html-projects-page.html">HTML</a></td>
     <td style="text-align:center;"><a href="./swift-projects-page.html">Swift</a></td>
   </tr>
+  </tbody>
 </table>
 
 <table class="equal-width-table">
