@@ -173,8 +173,8 @@ body {
 /* Frutiger Aero Header */
 .frutiger-aero-header {
   /* OKLCH Color System */
-  --hue: 280;
-  --sat: 0.2;
+  --hue: 300;
+  --sat: 0.3;
   --glow-intensity: 0.7;
 
   /* Color Variables */
@@ -194,7 +194,7 @@ body {
     linear-gradient(to bottom, var(--bg-dark), var(--bg));
 
   border: 1px solid var(--bg);
-  border-radius: 9999px;
+  border-radius: 2px;
 
   /* Shadows */
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
@@ -591,6 +591,7 @@ header {
   height: auto;
   float:left;
   position:fixed;
+  z-index: 1000;
   // Spacing from left of viewport
   left: 0;
   // Spacing from top of viewport
