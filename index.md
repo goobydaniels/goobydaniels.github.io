@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<head>
+  
+</head>
 
 <table class="equal-width-table">
   <tr>
