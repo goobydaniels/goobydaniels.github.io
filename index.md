@@ -38,16 +38,15 @@ layout: default
 </table>
 
 <table class="equal-width-table">
-  <thead>
+  <tbody>
     <tr>
       <th class = "frutiger-aero-header" colspan="3" style="text-align: center;">
         Programming Language Proficiencies (Click a link to see projects using that language!)
       </th>
     </tr>
-  </thead>
-  <tbody>
+  </tbody>
   <tr>
-    <td class = "frutiger-aero-table-element" style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
+    <td style="text-align:center;"><a href="./c-projects-page.html">C</a></td>
     <td style="text-align:center;"><a href="./assembly-projects-page.html">x86 Assembly</a></td>
     <td style="text-align:center;"><a href="./powershell-bash-projects-page.html">PowerShell</a></td>
   </tr>
@@ -66,7 +65,6 @@ layout: default
     <td style="text-align:center;"><a href="./css-html-projects-page.html">HTML</a></td>
     <td style="text-align:center;"><a href="./swift-projects-page.html">Swift</a></td>
   </tr>
-  </tbody>
 </table>
 
 <table class="equal-width-table">
