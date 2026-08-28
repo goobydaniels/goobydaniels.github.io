@@ -47,11 +47,13 @@ body {
   // should the image repeat to fill or not
   background-repeat: no-repeat;
   // Should image cover the whole screen
-  background-size: cover;
+  // background-size: cover;
   // Should image scroll with page or not
   background-attachment: fixed;
   // Background image position
   background-position: center center;
+  // Ensure the body spans the full window height
+  background-size: 100vw 100vh;
   // Dont know
 	margin: 0;
   // Spacing between new lines
